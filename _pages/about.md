@@ -24,7 +24,7 @@ Dr. Wen (Member, IEEE) is currently an Assistant Professor of the School of Info
 
 Dr. Wen's research interests include Integrated Sensing-Communication-Computation, Task-Oriented Communications, Edge Artificial Intelligence, Federated Edge Learning, Over-the-Air Computation, In-band Full Duplex Communications, etc.
 
-__Work experience__
+__Work Experience__
 * Dec. 2021 - Present: Assitant Professor, School of Information Scienece and Technology, ShanghaiTech University
 
 __Education__
