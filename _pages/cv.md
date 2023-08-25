@@ -17,5 +17,5 @@ Education
 
 Work experience
 ======
-Dec. 2021 - present: Assitant Professor, College of Information Scienece and Technology, ShanghaiTech University
+Dec. 2021 - Present: Assitant Professor, College of Information Scienece and Technology, ShanghaiTech University
   
