@@ -12,6 +12,8 @@ Dr. Dingzhu Wen (Member, IEEE) is currently an Assistant Professor of the School
 
 Dr. Wen's research interests include Integrated Sensing-Communication-Computation, Task-Oriented Communications, Edge Artificial Intelligence, Federated Edge Learning, Over-the-Air Computation, In-band Full Duplex Communications, etc.
 
+Email: wendzh@shanghaitech.edu.cn
+
 Work experience
 ======
 Dec. 2021 - Present: Assitant Professor, School of Information Scienece and Technology, ShanghaiTech University
