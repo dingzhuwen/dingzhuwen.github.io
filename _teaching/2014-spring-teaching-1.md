@@ -7,7 +7,9 @@ permalink: /teaching/2014-spring-teaching-1
 
 
 __Undergraduate Course__
+
 Distributed Optimization and Intelligence
 
 __Postgraduate Course__
+
 Probability and Statistics
