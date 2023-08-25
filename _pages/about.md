@@ -14,13 +14,13 @@ Assistant Professor (Ph. D. Supervisor)
 
 School of Information Science and Technology, ShanghaiTech University
 
+__Email__: wendzh@shanghaitech.edu.cn
+
 Bio
 ======
 Dr. Wen (Member, IEEE) is currently an Assistant Professor of the School of Information Science and Technology at ShanghaiTech University. He received the Bachelor degree and the Master degree from the Department (School) of Information Science and Electronic Engineering of Zhejiang University in 2014 and 2017, respectively, and received the Ph. D. degree from the Department of Electrical and Electronic Engineering of The University of Hong Kong in 2021. He served as the session chairs of APEMC 2022 and IEEE ICC 2023, the TPC members of IEEE ICC 2023, IEEE GlobeCom 2022, IEEE VTC-Fall 2020, and IEEE WCSP 2018, the TPC co-chair of IEEE PIMRC 2023 workshop on “Edge Learning for 5G Mobile Networks and Beyond”, and the co-chair of IEEE VTC 2023-Fall workshop on “Task-Oriented Communications and Networking for 6G”. He was elected as the exemplary reviewer of IEEE Transactions on Communications in 2023.
 
 Dr. Wen's research interests include Integrated Sensing-Communication-Computation, Task-Oriented Communications, Edge Artificial Intelligence, Federated Edge Learning, Over-the-Air Computation, In-band Full Duplex Communications, etc.
-
-__Email__: wendzh@shanghaitech.edu.cn
 
 Work experience
 ======
