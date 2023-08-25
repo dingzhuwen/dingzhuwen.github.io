@@ -9,7 +9,7 @@ type: "Undergraduate course"
 ---
 
 
-Distributed Optimization and Intelligence
+Probability Theory and Mathematical Statistics
 ======
 
 
