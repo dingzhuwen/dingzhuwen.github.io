@@ -75,4 +75,4 @@ Conference Papers
 
 * Z. Zhang, G. Yu, __D. Wen__, R. Liu, “Joint User Pairing, Resource Block Allocation, and Power Control for Full-Duplex Cellular Networks”, in IEEE/CIC International Conference on Communications in China (ICCC), Jul. 2016.
 
-__D. Wen__, G. Yu, and L. Xu, “Energy-Efficient Mode Selection and Power Control for Device-to-Device Communications,” in Proc. IEEE WCNC 2016, Apr. 2016.
+* __D. Wen__, G. Yu, and L. Xu, “Energy-Efficient Mode Selection and Power Control for Device-to-Device Communications,” in Proc. IEEE WCNC 2016, Apr. 2016.
