@@ -12,7 +12,7 @@ redirect_from:
 
 
 
-<font size=5>__Dr. Dingzhu Wen__</font>
+<font size=8>__Dr. Dingzhu Wen__</font>
 
 Assistant Professor (Ph. D. Supervisor)
 
