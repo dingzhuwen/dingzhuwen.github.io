@@ -18,7 +18,7 @@ author_profile: true
 Journal Papers
 ======
 
-* Z. Zhuang, __D. Wen__, Y. Shi, G. Zhu, S. Wu, and D. Niyato, “Integrated Sensing-Communication-Computation for Over-the-Air Edge AI Inference,”  ____IEEE Trans. Wireless Commun.____, early access, Aug. 2023. (Co-corresponding author)
+* Z. Zhuang, __D. Wen__, Y. Shi, G. Zhu, S. Wu, and D. Niyato, “Integrated Sensing-Communication-Computation for Over-the-Air Edge AI Inference,”  __IEEE Trans. Wireless Commun.__, early access, Aug. 2023. (Co-corresponding author)
 
 * __D. Wen__, P. Liu, G. Zhu, Y. Shi, J. Xu, Y. C. Eldar, and S. Cui, “Task-Oriented Sensing, Computation, and Communication Integration for Multi-Device Edge AI,” __IEEE Trans. Wireless Commun.__, early access, Aug. 2023.
 
