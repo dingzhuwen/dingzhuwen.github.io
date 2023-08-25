@@ -15,7 +15,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-__Journal Papers__
+Journal Papers
+======
 
 * Z. Zhuang, __D. Wen__, Y. Shi, G. Zhu, S. Wu, and D. Niyato, “Integrated Sensing-Communication-Computation for Over-the-Air Edge AI Inference,”  ____IEEE Trans. Wireless Commun.____, early access, Aug. 2023. (Co-corresponding author)
 
@@ -55,7 +56,8 @@ __Journal Papers__
 
 * __D. Wen__ and G. Yu, “Time-Division Cellular Networks with Full-Duplex Base Stations,” __IEEE Commun. Lett.__, vol. 20, no. 2, pp. 392-395, Feb. 2016.
 
-__Conference Papers__
+Conference Papers
+======
 
 * __D. Wen__, X. Jiao, P. Liu, G. Zhu, Y. Shi and K. Huang, “Task-Oriented Over-the-Air Computation for Multi-Device Edge Split Inference,” 2023 IEEE Wireless Communications and Networking Conference (WCNC), Glasgow, United Kingdom, 2023, pp. 1-6.
 
