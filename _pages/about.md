@@ -14,7 +14,7 @@ Dr. Wen's research interests include Integrated Sensing-Communication-Computatio
 
 Work experience
 ======
-Dec. 2021 - Present: Assitant Professor, College of Information Scienece and Technology, ShanghaiTech University
+Dec. 2021 - Present: Assitant Professor, School of Information Scienece and Technology, ShanghaiTech University
 
 Education
 ======
