@@ -1,42 +1,42 @@
 __Journal Papers__
 
-* Z. Zhuang, __D. Wen__, Y. Shi, G. Zhu, S. Wu, and D. Niyato, “Integrated Sensing-Communication-Computation for Over-the-Air Edge AI Inference,”  to appear in IEEE Trans. Wireless Commun., Aug. 2023. (Co-corresponding author)
+* Z. Zhuang, __D. Wen__, Y. Shi, G. Zhu, S. Wu, and D. Niyato, “Integrated Sensing-Communication-Computation for Over-the-Air Edge AI Inference,”  ____IEEE Trans. Wireless Commun.____, early access, Aug. 2023. (Co-corresponding author)
 
-* __D. Wen__, P. Liu, G. Zhu, Y. Shi, J. Xu, Y. C. Eldar, and S. Cui, “Task-Oriented Sensing, Computation, and Communication Integration for Multi-Device Edge AI,” IEEE Trans. Wireless Commun., early access, Aug. 2023.
+* __D. Wen__, P. Liu, G. Zhu, Y. Shi, J. Xu, Y. C. Eldar, and S. Cui, “Task-Oriented Sensing, Computation, and Communication Integration for Multi-Device Edge AI,” __IEEE Trans. Wireless Commun.__, early access, Aug. 2023.
 
-* __D. Wen__, X. Jiao, P. Liu, G. Zhu, Y. Shi, and K. Huang, “Task-Oriented Over-the-Air Computation for Multi-Device Edge AI,” IEEE Trans. Wireless Commun., early access, Jul. 2023.
+* __D. Wen__, X. Jiao, P. Liu, G. Zhu, Y. Shi, and K. Huang, “Task-Oriented Over-the-Air Computation for Multi-Device Edge AI,” __IEEE Trans. Wireless Commun.__, early access, Jul. 2023.
 
-* Y. Shi, Y. Zhou, __D. Wen__, Y. Wu, C. Jiang, and K. B. Letaief, “Task-Oriented Communications for 6G: Vision, Principles, and Technologies,” IEEE Wireless Commun., vol. 30, no. 3, pp. 78-85, Jun. 2023.
+* Y. Shi, Y. Zhou, __D. Wen__, Y. Wu, C. Jiang, and K. B. Letaief, “Task-Oriented Communications for 6G: Vision, Principles, and Technologies,” __IEEE Wireless Commun.__, vol. 30, no. 3, pp. 78-85, Jun. 2023.
 
-* Q. Chen, Z. You, __D. Wen__, and Z. Zhang, “Enhanced Hybrid Hierarchical Federated Edge Learning Over Heterogeneous Networks,” IEEE Trans.  Veh. Technol., early access, Jun. 2023.
+* Q. Chen, Z. You, __D. Wen__, and Z. Zhang, “Enhanced Hybrid Hierarchical Federated Edge Learning Over Heterogeneous Networks,” __IEEE Trans. Veh. Technol.__, early access, Jun. 2023.
 
-* S. Liu, G. Yu, __D. Wen__, X. Chen, M. Bennis, and H. Chen, “Communication and Energy Efficient Decentralized Learning over D2D Networks,”  IEEE Trans. Wireless Commun., early access, May 2023. (Corresponding author)
+* S. Liu, G. Yu, __D. Wen__, X. Chen, M. Bennis, and H. Chen, “Communication and Energy Efficient Decentralized Learning over D2D Networks,”  __IEEE Trans. Wireless Commun.__, early access, May 2023. (Corresponding author)
 
-* __D. Wen__, K.-J. Jeon, and K. Huang, “Federated Dropout -- A Simple Approach for Enabling Federated Learning on Resource Constrained Devices,” IEEE Wireless Communication Letters, vol. 11, no. 5, pp. 923-927, May 2022.
+* __D. Wen__, K.-J. Jeon, and K. Huang, “Federated Dropout -- A Simple Approach for Enabling Federated Learning on Resource Constrained Devices,” __IEEE Wireless Commun. Lett.__, vol. 11, no. 5, pp. 923-927, May 2022.
 
-* Y. Wang, __D. Wen__, Y. Mao, and Y. Shi, “RIS-Assisted Federated Learning in Multi-Cell Wireless Networks,” ZTE Commun., vol. 21, no. 1, pp. 25-37, Mar. 2022.
+* Y. Wang, __D. Wen__, Y. Mao, and Y. Shi, “RIS-Assisted Federated Learning in Multi-Cell Wireless Networks,” __ZTE Commun.__, vol. 21, no. 1, pp. 25-37, Mar. 2022.
 
-* __D. Wen__, K.-J. Jeon, M. Bennis, and K. Huang, “Adaptive Subcarrier, Parameter, and Power Allocation for Partitioned Edge Learning over Broadband Channels”, IEEE Trans. Wireless Commun., vol. 20, no. 12, pp. 8348-8361, Dec. 2021.
+* __D. Wen__, K.-J. Jeon, M. Bennis, and K. Huang, “Adaptive Subcarrier, Parameter, and Power Allocation for Partitioned Edge Learning over Broadband Channels”, __IEEE Trans. Wireless Commun.__, vol. 20, no. 12, pp. 8348-8361, Dec. 2021.
 
-* Q. Lan, __D. Wen__, Z. Zhang, Q. Zeng, X. Chen, P. Popovski, and K. Huang, “What is Semantic Communication? A View on Conveying Meaning in the Era of Machine Intelligence,” J. Commun. Inf. Netw., vol. 6, no. 4, pp. 336 – 371, Dec. 2021. 
+* Q. Lan, __D. Wen__, Z. Zhang, Q. Zeng, X. Chen, P. Popovski, and K. Huang, “What is Semantic Communication? A View on Conveying Meaning in the Era of Machine Intelligence,” __J. Commun. Inf. Netw.__, vol. 6, no. 4, pp. 336 – 371, Dec. 2021. 
 
-* __D. Wen__, M. Bennis, and K. Huang, “Joint Parameter-and-Bandwidth Allocation for Improving the Efficiency of Partitioned Edge Learning,” IEEE Trans. Wireless Commun., vol. 19, no. 12, pp. 8272-8286, Dec. 2020.
+* __D. Wen__, M. Bennis, and K. Huang, “Joint Parameter-and-Bandwidth Allocation for Improving the Efficiency of Partitioned Edge Learning,” __IEEE Trans. Wireless Commun.__, vol. 19, no. 12, pp. 8272-8286, Dec. 2020.
 
-* J. Ren, Y. He, __D. Wen__, G. Yu, K. Huang, and D. Guo, “Scheduling in Cellular Federated Edge Learning with Importance and Channel Awareness,” IEEE Trans. Wireless Common., vol. 19, no. 11, pp. 7690-7703, Nov. 2020.
+* J. Ren, Y. He, __D. Wen__, G. Yu, K. Huang, and D. Guo, “Scheduling in Cellular Federated Edge Learning with Importance and Channel Awareness,” __IEEE Trans. Wireless Commun.__, vol. 19, no. 11, pp. 7690-7703, Nov. 2020.
 
-* __D. Wen__, X. Li, Q. Zeng, J. Ren, and K. Huang, “An Overview of Data-Importance Aware Radio Resource Management for Edge Machine Learning,” J. Commun. Inf. Netw., vol. 4, no. 4, pp. 1–14, Dec. 2019.
+* __D. Wen__, X. Li, Q. Zeng, J. Ren, and K. Huang, “An Overview of Data-Importance Aware Radio Resource Management for Edge Machine Learning,” __J. Commun. Inf. Netw.__, vol. 4, no. 4, pp. 1–14, Dec. 2019.
 
-* __D. Wen__, G. Zhu, and K. Huang, “Reduced-Dimension Design of MIMO Over-the-Air Computing for Data Aggregation in Clustered IoT Networks,” IEEE Trans. Wireless Commun., vol. 18, no. 11, pp. 5255-5268, Nov. 2019.
+* __D. Wen__, G. Zhu, and K. Huang, “Reduced-Dimension Design of MIMO Over-the-Air Computing for Data Aggregation in Clustered IoT Networks,” __IEEE Trans. Wireless Commun.__, vol. 18, no. 11, pp. 5255-5268, Nov. 2019.
 
-* L. Chen, __D. Wen__, C. Zhong, G. Yu, “Hybrid Full-/Half-Duplex Cellular Networks: User Admission and Power Control,” Front. Inf. Technol. Electron. Eng., vol. 19, no. 3, pp. 379-387, May 2018.
+* L. Chen, __D. Wen__, C. Zhong, G. Yu, “Hybrid Full-/Half-Duplex Cellular Networks: User Admission and Power Control,” __Front. Inf. Technol. Electron. Eng.__, vol. 19, no. 3, pp. 379-387, May 2018.
 
-* __D. Wen__, G. Yu, R. Li, Y. Chen, and G.Y. Li, “Results on Energy-and Spectral-Efficiency Tradeoff in Cellular Networks with Full-Duplex Enabled Base Stations,” IEEE Trans. Wireless Commun., vol. 16, no. 3, pp. 1494-1507, Mar. 2017.
+* __D. Wen__, G. Yu, R. Li, Y. Chen, and G.Y. Li, “Results on Energy-and Spectral-Efficiency Tradeoff in Cellular Networks with Full-Duplex Enabled Base Stations,” __IEEE Trans. Wireless Commun.__, vol. 16, no. 3, pp. 1494-1507, Mar. 2017.
 
-* __D. Wen__, G. Yu, “Full-Duplex and Half-Duplex: Power Efficiency Comparison,” Electron. Lett., vol. 52, no. 6, pp. 483-485, Mar. 2016. 
+* __D. Wen__, G. Yu, “Full-Duplex and Half-Duplex: Power Efficiency Comparison,” __Electron. Lett.__, vol. 52, no. 6, pp. 483-485, Mar. 2016. 
 
-* G. Yu, __D. Wen__, and F. Qu, “Joint User Scheduling and Channel Allocation for Cellular Networks with Full Duplex Base Stations,” IET Commun., vol. 1, no. 5, pp. 479-486, Mar. 2016.
+* G. Yu, __D. Wen__, and F. Qu, “Joint User Scheduling and Channel Allocation for Cellular Networks with Full Duplex Base Stations,” __IET Commun.__, vol. 1, no. 5, pp. 479-486, Mar. 2016.
 
-* __D. Wen__ and G. Yu, “Time-Division Cellular Networks with Full-Duplex Base Stations,” IEEE Commun. Lett., vol. 20, no. 2, pp. 392-395, Feb. 2016.
+* __D. Wen__ and G. Yu, “Time-Division Cellular Networks with Full-Duplex Base Stations,” __IEEE Commun. Lett.__, vol. 20, no. 2, pp. 392-395, Feb. 2016.
 
 __Conference Papers__
 
