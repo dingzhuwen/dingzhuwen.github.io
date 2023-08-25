@@ -12,7 +12,7 @@ redirect_from:
 
 
 
-__Dr. Dingzhu Wen__
+<font size=5>Dr. Dingzhu Wen</font>
 
 Assistant Professor (Ph. D. Supervisor), School of Information Science and Technology, ShanghaiTech University
 
