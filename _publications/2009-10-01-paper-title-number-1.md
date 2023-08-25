@@ -1,6 +1,6 @@
 __Journal Papers__
 
-* Z. Zhuang, __D. Wen__*, Y. Shi*, G. Zhu, S. Wu, and D. Niyato, “Integrated Sensing-Communication-Computation for Over-the-Air Edge AI Inference,”  to appear in IEEE Trans. Wireless Commun., Aug. 2023. (Co-corresponding author)
+* Z. Zhuang, __D. Wen__, Y. Shi, G. Zhu, S. Wu, and D. Niyato, “Integrated Sensing-Communication-Computation for Over-the-Air Edge AI Inference,”  to appear in IEEE Trans. Wireless Commun., Aug. 2023. (Co-corresponding author)
 
 * __D. Wen__, P. Liu, G. Zhu, Y. Shi, J. Xu, Y. C. Eldar, and S. Cui, “Task-Oriented Sensing, Computation, and Communication Integration for Multi-Device Edge AI,” IEEE Trans. Wireless Commun., early access, Aug. 2023.
 
@@ -10,7 +10,7 @@ __Journal Papers__
 
 * Q. Chen, Z. You, __D. Wen__, and Z. Zhang, “Enhanced Hybrid Hierarchical Federated Edge Learning Over Heterogeneous Networks,” IEEE Trans.  Veh. Technol., early access, Jun. 2023.
 
-* S. Liu, G. Yu, __D. Wen__*, X. Chen, M. Bennis, and H. Chen, “Communication and Energy Efficient Decentralized Learning over D2D Networks,”  IEEE Trans. Wireless Commun., early access, May 2023. (Corresponding author)
+* S. Liu, G. Yu, __D. Wen__, X. Chen, M. Bennis, and H. Chen, “Communication and Energy Efficient Decentralized Learning over D2D Networks,”  IEEE Trans. Wireless Commun., early access, May 2023. (Corresponding author)
 
 * __D. Wen__, K.-J. Jeon, and K. Huang, “Federated Dropout -- A Simple Approach for Enabling Federated Learning on Resource Constrained Devices,” IEEE Wireless Communication Letters, vol. 11, no. 5, pp. 923-927, May 2022.
 
