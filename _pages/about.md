@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Dingzhu Wen (文鼎柱)
+Dr. Dingzhu Wen
 ======
 Assistant Professor (Ph. D. Supervisor)
 
