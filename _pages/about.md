@@ -12,9 +12,9 @@ redirect_from:
 
 
 
-<font size=5>Dr. Dingzhu Wen</font>
+<font size=5>Dingzhu Wen(文鼎柱)</font>
 
-Assistant Professor (Ph. D. Supervisor)  
+Ph.D.|Assistant Professor (Ph. D. Supervisor)  
 School of Information Science and Technology, ShanghaiTech University  
 Email: wendzh@shanghaitech.edu.cn
 
