@@ -18,7 +18,7 @@ author_profile: true
 Journal Papers
 ======
 
-* L. Zeng, __D. Wen__, G. Zhu, C. You, Q. Chen, and Y. Shi, “Federated Learning with Energy Harvesting Devices,” to appear in __IEEE Trans. Green Commun. Netw.__, Aug. 2023. (Corresponding author)
+* L. Zeng, __D. Wen__, G. Zhu, C. You, Q. Chen, and Y. Shi, “Federated Learning with Energy Harvesting Devices,” __IEEE Trans. Green Commun. Netw.__, early access, Aug. 2023. (Corresponding author)
 * Z. Zhuang, __D. Wen__, Y. Shi, G. Zhu, S. Wu, and D. Niyato, “Integrated Sensing-Communication-Computation for Over-the-Air Edge AI Inference,”  __IEEE Trans. Wireless Commun.__, early access, Aug. 2023. (Co-corresponding author)
 
 * __D. Wen__, P. Liu, G. Zhu, Y. Shi, J. Xu, Y. C. Eldar, and S. Cui, “Task-Oriented Sensing, Computation, and Communication Integration for Multi-Device Edge AI,” __IEEE Trans. Wireless Commun.__, early access, Aug. 2023.
