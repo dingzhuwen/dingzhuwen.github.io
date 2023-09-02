@@ -31,5 +31,4 @@ __Education__
 * Ph.D in Department of Electrical and Electronic Engineering, The University of Hong Kong, 2021
 
 __Welcome to Join My Group!__  
-
 Dr. Wen's  group recruits postdoctoral fellows, doctoral students, master students, visiting scholars, and visiting students all year round. If you are interested, please email to Dr. Wen. 
