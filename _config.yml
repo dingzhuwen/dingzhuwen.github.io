@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dingzhu Wen's Homepage"
+title                    : "Dingzhu Wen (文鼎柱)"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
