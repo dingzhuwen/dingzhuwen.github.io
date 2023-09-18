@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-*__Call for Submissions__: ICC 2024 Workshop on Task-Oriented and Generative Communications for 6G
+* __Call for Submissions__: IEEE ICC 2024 Workshop on Task-Oriented and Generative Communications for 6G
     - Workshop Website: <https://sites.google.com/view/togc-icc24/home>.
     - Submission Link: TBD.
     - Submission Deadline: Jan. 20, 2024.
