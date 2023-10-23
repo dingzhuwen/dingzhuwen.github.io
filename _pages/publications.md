@@ -17,14 +17,14 @@ author_profile: true
 
 Journal Papers
 ======
-1. P. Yang, Y. Jiang, __D. Wen__, T. Wang, C. N. Jones, Y. Shi, “Decentralized Over-the-Air Federated Learning by Second-Order Optimization Method,” accepted to __IEEE Trans. Wireless Commun.__, Oct. 2023. (Co-corresponding author)
-2. L. Zeng, __D. Wen__, G. Zhu, C. You, Q. Chen, and Y. Shi, “Federated Learning with Energy Harvesting Devices,” __IEEE Trans. Green Commun. Netw.__, early access, Aug. 2023. (Corresponding author)
-3. Z. Zhuang, __D. Wen__, Y. Shi, G. Zhu, S. Wu, and D. Niyato, “Integrated Sensing-Communication-Computation for Over-the-Air Edge AI Inference,”  __IEEE Trans. Wireless Commun.__, early access, Aug. 2023. (Co-corresponding author)
+1. P. Yang, Y. Jiang, __D. Wen__, T. Wang, C. N. Jones, Y. Shi, “Decentralized Over-the-Air Federated Learning by Second-Order Optimization Method,” accepted to __IEEE Trans. Wireless Commun.__, Oct. 2023. (Co-Corresponding Author)
+2. L. Zeng, __D. Wen__, G. Zhu, C. You, Q. Chen, and Y. Shi, “Federated Learning with Energy Harvesting Devices,” __IEEE Trans. Green Commun. Netw.__, early access, Aug. 2023. (Corresponding Author)
+3. Z. Zhuang, __D. Wen__, Y. Shi, G. Zhu, S. Wu, and D. Niyato, “Integrated Sensing-Communication-Computation for Over-the-Air Edge AI Inference,”  __IEEE Trans. Wireless Commun.__, early access, Aug. 2023. (Co-Corresponding Author)
 4. __D. Wen__, P. Liu, G. Zhu, Y. Shi, J. Xu, Y. C. Eldar, and S. Cui, “Task-Oriented Sensing, Computation, and Communication Integration for Multi-Device Edge AI,” __IEEE Trans. Wireless Commun.__, early access, Aug. 2023.
 5. __D. Wen__, X. Jiao, P. Liu, G. Zhu, Y. Shi, and K. Huang, “Task-Oriented Over-the-Air Computation for Multi-Device Edge AI,” __IEEE Trans. Wireless Commun.__, early access, Jul. 2023.
 6. Y. Shi, Y. Zhou, __D. Wen__, Y. Wu, C. Jiang, and K. B. Letaief, “Task-Oriented Communications for 6G: Vision, Principles, and Technologies,” __IEEE Wireless Commun.__, vol. 30, no. 3, pp. 78-85, Jun. 2023.
 7. Q. Chen, Z. You, __D. Wen__, and Z. Zhang, “Enhanced Hybrid Hierarchical Federated Edge Learning Over Heterogeneous Networks,” __IEEE Trans. Veh. Technol.__, early access, Jun. 2023.
-8. S. Liu, G. Yu, __D. Wen__, X. Chen, M. Bennis, and H. Chen, “Communication and Energy Efficient Decentralized Learning over D2D Networks,”  __IEEE Trans. Wireless Commun.__, early access, May 2023. (Corresponding author)
+8. S. Liu, G. Yu, __D. Wen__, X. Chen, M. Bennis, and H. Chen, “Communication and Energy Efficient Decentralized Learning over D2D Networks,”  __IEEE Trans. Wireless Commun.__, early access, May 2023. (Corresponding Author)
 9. __D. Wen__, K.-J. Jeon, and K. Huang, “Federated Dropout -- A Simple Approach for Enabling Federated Learning on Resource Constrained Devices,” __IEEE Wireless Commun. Lett.__, vol. 11, no. 5, pp. 923-927, May 2022.
 10. Y. Wang, __D. Wen__, Y. Mao, and Y. Shi, “RIS-Assisted Federated Learning in Multi-Cell Wireless Networks,” __ZTE Commun.__, vol. 21, no. 1, pp. 25-37, Mar. 2022.
 11. __D. Wen__, K.-J. Jeon, M. Bennis, and K. Huang, “Adaptive Subcarrier, Parameter, and Power Allocation for Partitioned Edge Learning over Broadband Channels”, __IEEE Trans. Wireless Commun.__, vol. 20, no. 12, pp. 8348-8361, Dec. 2021.
