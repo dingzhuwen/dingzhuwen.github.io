@@ -17,7 +17,7 @@ author_profile: true
 
 Journal Papers
 ======
-1. P. Yang, Y. Jiang, __D. Wen__, T. Wang, C. N. Jones, Y. Shi, “Decentralized Over-the-Air Federated Learning by Second-Order Optimization Method,” accepted to __IEEE Trans. Wireless Commun.__, Oct. 2023, DOI: 10.1109/TWC.2023.3327610. (Co-Corresponding Author)
+1. P. Yang, Y. Jiang, __D. Wen__, T. Wang, C. N. Jones, Y. Shi, “Decentralized Over-the-Air Federated Learning by Second-Order Optimization Method,” __IEEE Trans. Wireless Commun.__, early access, Nov. 2023, DOI: 10.1109/TWC.2023.3327610. (Co-Corresponding Author)
 2. L. Zeng, __D. Wen__, G. Zhu, C. You, Q. Chen, and Y. Shi, “Federated Learning with Energy Harvesting Devices,” __IEEE Trans. Green Commun. Netw.__, early access, Aug. 2023, DOI: 10.1109/TGCN.2023.3310569. (Corresponding Author)
 3. Z. Zhuang, __D. Wen__, Y. Shi, G. Zhu, S. Wu, and D. Niyato, “Integrated Sensing-Communication-Computation for Over-the-Air Edge AI Inference,”  __IEEE Trans. Wireless Commun.__, early access, Aug. 2023, DOI: 10.1109/TWC.2023.3306465. (Co-Corresponding Author)
 4. __D. Wen__, P. Liu, G. Zhu, Y. Shi, J. Xu, Y. C. Eldar, and S. Cui, “Task-Oriented Sensing, Computation, and Communication Integration for Multi-Device Edge AI,” __IEEE Trans. Wireless Commun.__, early access, Aug. 2023, DOI: 10.1109/TWC.2023.3303232. (Related Code: https://github.com/PeixiLiu/humanMotionRadar)
