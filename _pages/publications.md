@@ -42,7 +42,7 @@ Journal Papers
 
 Conference Papers
 ======
-1.P. Yang, __D. Wen__, Q. Zeng, T. Wang and Y. Shi, “Communication-Efficient Vertically Split Inference via Over-the-Air Computation,” 2023 IEEE 24th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), Shanghai, China, 2023, pp. 1-5.
+1. P. Yang, __D. Wen__, Q. Zeng, T. Wang and Y. Shi, “Communication-Efficient Vertically Split Inference via Over-the-Air Computation,” 2023 IEEE 24th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), Shanghai, China, 2023, pp. 1-5.
 2. __D. Wen__, P. Liu, G. Zhu, Y. Shi, J. Xu, Y. C. Eldar, and S. Cui, “Task-Oriented Sensing, Computation, and Communication Integration for Multi-Device Edge AI,” in Proc. IEEE ICC 2023, Rome, Italy, 2023, pp. 3608-3613.
 3. __D. Wen__, X. Jiao, P. Liu, G. Zhu, Y. Shi and K. Huang, “Task-Oriented Over-the-Air Computation for Multi-Device Edge Split Inference,” 2023 IEEE Wireless Communications and Networking Conference (WCNC), Glasgow, United Kingdom, 2023, pp. 1-6.
 4. L. Zeng, __D. Wen__, G. Zhu, C. You, Q. Chen and Y. Shi, “Joint Bandwidth Allocation, Computation Control, and Device Scheduling for Federated Learning with Energy Harvesting Devices,” 2022 56th Asilomar Conference on Signals, Systems, and Computers, Pacific Grove, CA, USA, 2022, pp. 1164-1168.
