@@ -9,7 +9,7 @@ author_profile: true
 * __Call for Submissions__: IEEE ICC 2024 Workshop on Task-Oriented and Generative Communications for 6G
     - Workshop Website: <https://sites.google.com/view/togc-icc24/home>.
     - Submission Link: <https://edas.info/newPaper.php?c=31746&track=121199>.
-    - Submission Deadline: Jan. 20, 2024.
+    - Submission Deadline (Extended): Feb. 04, 2024.
 * __Call for Submissions__: ICNCIC 2023 Workshop on Integrated Sensing-Communication-Computation for 6G
     - Workshop Website: http://www.icncic.org/workshops/
     - Submission Email: ncic_submission@126.com
