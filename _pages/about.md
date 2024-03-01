@@ -21,6 +21,11 @@ Email: wendzh@shanghaitech.edu.cn
 __Welcome to Join My Group!__  
 Dr. Wen's  group recruits postdoctoral fellows, doctoral students, master students, visiting scholars, and visiting students all year round. If you are interested, please email to Dr. Wen. 
 
+__Research Topics__
+* Edge Artificial Intelligence
+* Integrated Sensing-Communication-Computation
+* Task-Oriented Communications
+
 __Activities__
 * Dr. Wen will co-organize __IEEE PIMRC 2024 Workshop on Task-Oriented and Pragmatic Communications for 6G__. ([Workshop Homepage][1])
 * Dr. Wen will co-organize __IEEE ICC 2024 Workshop on Task-Oriented and Generative Communications for 6G__. ([Workshop Homepage][2])
