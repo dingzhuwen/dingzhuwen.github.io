@@ -19,7 +19,9 @@ School of Information Science and Technology, ShanghaiTech University
 Email: wendzh@shanghaitech.edu.cn
 
 __Activities__
-* Dr. Wen will co-organize IEEE PIMRC 2024 Workshop on Task-Oriented and Pragmatic Communications for 6G. ([Workshop Homepage][1])
+* Dr. Wen will co-organize __IEEE PIMRC 2024 Workshop on Task-Oriented and Pragmatic Communications for 6G__. ([Workshop Homepage][1])
+* Dr. Wen will co-organize __IEEE ICC 2024 Workshop on Task-Oriented and Generative Communications for 6G__. ([Workshop Homepage][2])
+* Dr. Wen co-organized __IEEE VTC 2023-Fall Workshop on Task-Oriented Communications and Networking for 6G__. ([Workshop Homepage][3])
 
 __Bio__  
 Dr. Wen (Member, IEEE) is currently an Assistant Professor of the School of Information Science and Technology at ShanghaiTech University. He received the Bachelor degree and the Master degree from the Department (School) of Information Science and Electronic Engineering of Zhejiang University in 2014 and 2017, respectively, and received the Ph. D. degree from the Department of Electrical and Electronic Engineering of The University of Hong Kong in 2021. He served as the co-chair of IEEE ICC 2024 workshop on “Task-Oriented and Generative Communications for 6G”, IEEE PIMRC 2023 workshop on “Edge Learning for 5G Mobile Networks and Beyond”, IEEE VTC 2023-Fall workshop on “Task-Oriented Communications and Networking for 6G”, and ICNCIC 2023 Workshop on “Integrated Sensing-Communication-Computation for 6G”, the session chair of IEEE ICC 2023, IEEE VTC 2023-Fall, and APEMC 2022, the TPC member of IEEE ICC 2023, IEEE GlobeCom 2022, IEEE VTC-Fall 2023/2020, and IEEE WCSP 2018. He was the recipient of the exemplary reviewer of IEEE Transactions on Communications in 2023.  
@@ -38,3 +40,6 @@ Dr. Wen's  group recruits postdoctoral fellows, doctoral students, master studen
 
 
 [1]: https://pimrc2024.ieee-pimrc.org/workshop/ws-03-task-oriented-and-pragmatic-communications-6g
+[2]: https://icc2024.ieee-icc.org/workshop/ws-06-task-oriented-and-generative-communications-6g
+[3]: https://events.vtsociety.org/vtc2023-fall/workshops/w6-first-ieee-workshop-on-task-oriented-communications-and-networking-for-6g/
+
