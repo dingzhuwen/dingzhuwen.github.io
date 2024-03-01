@@ -24,7 +24,7 @@ Dr. Wen's  group recruits postdoctoral fellows, doctoral students, master studen
 __Activities__
 * Dr. Wen will co-organize __IEEE PIMRC 2024 Workshop on Task-Oriented and Pragmatic Communications for 6G__. ([Workshop Homepage][1])
 * Dr. Wen will co-organize __IEEE ICC 2024 Workshop on Task-Oriented and Generative Communications for 6G__. ([Workshop Homepage][2])
-* The paper titled with ``Hierarchical Federated Learning over Space-Air-Ground Integrated Networks" was awarded __IEEE GlobeCom Workshop Best Paper__. 
+* The paper titled with "Hierarchical Federated Learning over Space-Air-Ground Integrated Networks" was awarded __IEEE GlobeCom Workshop Best Paper__. 
 * Dr. Wen was awarded __Excellent Mentor of ShanghaiTech University__ on 2023/11/8.
 * Dr. Wen co-organized __IEEE VTC 2023-Fall Workshop on Task-Oriented Communications and Networking for 6G__. ([Workshop Homepage][3])
 * Dr. Wen co-organized __IEEE PIMRC 2023 Workshop on Edge Learning for 5G Mobile Networks and Beyond__. ([Workshop Homepage][4])
