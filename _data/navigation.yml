@@ -9,5 +9,8 @@ main:
   - title: "Group"
     url: /group/  
 
+  - title: "Photos"
+    url: /photos/  
+
   - title: "News"
-    url: /news/  
+    url: /news/
