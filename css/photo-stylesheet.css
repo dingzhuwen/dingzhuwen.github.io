@@ -1,0 +1,23 @@
+.photo-framework {
+    width: 1080px;
+}
+
+.photo-photo {
+    display: grid;
+    place-items: center;
+    display:inline-block;
+    width: 30%;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.photo-photo img {
+    width: 100%;
+}
+
+.photo-photo p {
+    text-align: center;
+    font-size: 16px;
+}
+
+
