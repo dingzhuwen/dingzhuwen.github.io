@@ -16,7 +16,7 @@
 }
 
 .photo-photo img:hover {
-    transform:scale(3);
+    transform: scale(3);
 }
 
 .photo-photo p {
