@@ -18,4 +18,12 @@ author_profile: true
     <img src="/images/GatheringwithUndergraduates.jpg">
     <p>[2024-03] Spring Gathering of 2024</p>
   </div>
+    <div class="photo-photo">
+    <img src="/images/GatheringwithUndergraduates.jpg">
+    <p>[2024-03] Spring Gathering of 2024</p>
+  </div>
+    <div class="photo-photo">
+    <img src="/images/GatheringwithUndergraduates.jpg">
+    <p>[2024-03] Spring Gathering of 2024</p>
+  </div>
 </div>
