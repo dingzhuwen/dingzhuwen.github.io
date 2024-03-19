@@ -7,7 +7,7 @@ author_profile: false
 
 <link rel="stylesheet" href="/css/customized-stylesheet.css">
 
-<div class="content-framework" style="transform: translate(-275px, 0px);">
+<div class="content-framework" style="transform: translate(-290px, 0px);">
 
 <div class="group-member">
     <div class="member-photo"><img src="/images/yinyb.jpg"></div>
