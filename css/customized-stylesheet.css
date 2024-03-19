@@ -53,7 +53,7 @@
 .member-info-sets {
     display: inline-block;
     vertical-align: top;
-    margin-top: 10px;
+    margin-top: 7px;
 }
 
 .member-name {
@@ -65,7 +65,7 @@
 .member-status {
     font-size: 18px;
     line-height: 1.5;
-    margin-bottom: 22px;
+    margin-bottom: 25px;
 }
 
 .member-interests, .member-email, .member-misc {
