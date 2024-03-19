@@ -13,7 +13,7 @@ author_profile: false
     <div class="member-photo"><img src="/images/guomzh.jpg"></div>
     <div class="member-info-sets">
         <div class="member-name" style="margin-bottom: 25px;">Mingzhao Guo</div>
-        <div class="member-misc">Mingzhao Guo is a postgraduate student with Professor Wen’s group, SIST at ShanghaiTech University. He received a Bachelor of Engineering in Computer Science from ShanghaiTech University in 2022. His research focuses on federated learning.</div>
+        <div class="member-misc">Mingzhao Guo is a postgraduate student with Dr. Wen’s group, SIST at ShanghaiTech University. He received a Bachelor of Engineering in Computer Science from ShanghaiTech University in 2022. His research focuses on federated learning.</div>
     </div>
 </div>
 
