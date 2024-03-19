@@ -4,9 +4,11 @@
 
 .photo-photo {
     display: grid;
+    text-align: center;
     place-items: center;
     display:inline-block;
-    width: 30%;
+    height: 243px;
+    width: 324px;
     margin-left: 5px;
     margin-right: 5px;
 }
