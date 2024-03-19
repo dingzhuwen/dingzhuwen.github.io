@@ -18,7 +18,7 @@ author_profile: true
         <div class="member-status">Master Student (2022-now)</div>
         <div class="member-interests">Research area: Federated Learning</div>
         <div class="member-email">E-mail: <a href="mailto:guomzh1@shanghaitech.edu.cn">guomzh1@shanghaitech.edu.cn</a></div>
-        <div class="member-misc"><a href="">Biography</a></div>
+        <div class="member-misc"><a href="/group/mingzhao/">Biography</a></div>
     </div>
 </div>
 
