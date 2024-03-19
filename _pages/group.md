@@ -11,7 +11,6 @@ author_profile: true
 
 <div class="cat">Current Students</div>
 
-
 <div class="group-member">
     <div class="member-photo"><img src="/images/guomzh.jpg"></div>
     <div class="member-info-sets">
@@ -23,7 +22,16 @@ author_profile: true
     </div>
 </div>
 
-
+<div class="group-member">
+    <div class="member-photo"><img src="/images/liushu.jpg"></div>
+    <div class="member-info-sets">
+        <div class="member-name">Shu Liu</div>
+        <div class="member-status">Master Student (2022-now)</div>
+        <div class="member-interests">Research area: Edge Artificial Intelligence</div>
+        <div class="member-email"><a href="mailto:liushu2022@shanghaitech.edu.cn">liushu2022@shanghaitech.edu.cn</a></div>
+        <div class="member-misc"><a href="">Biography</a></div>
+    </div>
+</div>
 
 
 
