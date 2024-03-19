@@ -33,6 +33,58 @@ author_profile: true
     </div>
 </div>
 
+<div class="group-member">
+    <div class="member-photo"><img src="/images/xiesj.jpg"></div>
+    <div class="member-info-sets">
+        <div class="member-name">Sijing Xie</div>
+        <div class="member-status">Master Student (2023-now)</div>
+        <div class="member-interests">Research area: Edge Intelligence and Distributed Computing</div>
+        <div class="member-email"><a href="mailto:xiesj2023@shanghaitech.edu.cn">xiesj2023@shanghaitech.edu.cn</a></div>
+        <div class="member-misc"><a href="">Biography</a></div>
+    </div>
+</div>
+
+<div class="group-member">
+    <div class="member-photo"><img src="/images/yinyb.jpg"></div>
+    <div class="member-info-sets">
+        <div class="member-name">Yanbo Yin</div>
+        <div class="member-status">Master Student (2023-now)</div>
+        <div class="member-interests">Research area: Semantic Communication</div>
+        <div class="member-email"><a href="mailto:yinyb2023@shanghaitech.edu.cn">yinyb2023@shanghaitech.edu.cn</a></div>
+        <div class="member-misc"><a href="">Biography</a></div>
+    </div>
+</div>
+
+<div class="group-member">
+    <div class="member-photo"><img src="/images/huqsh.jpg"></div>
+    <div class="member-info-sets">
+        <div class="member-name">Qiaosheng Hu</div>
+        <div class="member-status">Master Student (2023-now)</div>
+        <div class="member-interests">Research area: Near-Field Communication and Over-the-Air Computation</div>
+        <div class="member-email"><a href="mailto:huqsh2023@shanghaitech.edu.cn">huqsh2023@shanghaitech.edu.cn</a></div>
+        <div class="member-misc"><a href="">Biography</a></div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
