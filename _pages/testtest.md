@@ -25,7 +25,7 @@ author_profile: true
     <div class="member-info-sets">
         <div class="member-name">CAT-B</div>
         <div class="member-status">Cat student (???-now)</div>
-        <div class="member-interests">Fish</div>
+        <div class="member-interests">Fiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiish</div>
         <div class="member-email">@@@</div>
         <div class="member-misc">Office: ###</div>
     </div>
