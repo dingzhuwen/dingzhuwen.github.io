@@ -19,9 +19,4 @@ author_profile: false
 
 </div>
 
-
-<script>
-  document.getElementById('misc').addEventListener('click', function() {
-    document.getElementById('misc').textContent="if question == education_experience:<br>print(f'Graduated from the School of Information Science and Engineering, Shandong University with Bachelor's degree in 2023.')<br>return"
-  });
-</script>
+<script src=""></script>
