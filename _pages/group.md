@@ -29,7 +29,7 @@ author_profile: true
         <div class="member-status">Master Student (2022-now)</div>
         <div class="member-interests">Research area: Edge Artificial Intelligence</div>
         <div class="member-email">E-mail: <a href="mailto:liushu2022@shanghaitech.edu.cn">liushu2022@shanghaitech.edu.cn</a></div>
-        <div class="member-misc"><a href="">Biography</a></div>
+        <div class="member-misc"><a href="/group/shu/">Biography</a></div>
     </div>
 </div>
 
@@ -40,7 +40,7 @@ author_profile: true
         <div class="member-status">Master Student (2023-now)</div>
         <div class="member-interests">Research area: Edge Intelligence and Distributed Computing</div>
         <div class="member-email">E-mail: <a href="mailto:xiesj2023@shanghaitech.edu.cn">xiesj2023@shanghaitech.edu.cn</a></div>
-        <div class="member-misc"><a href="">Biography</a></div>
+        <div class="member-misc"><a href="/group/sijing/">Biography</a></div>
     </div>
 </div>
 
@@ -51,7 +51,7 @@ author_profile: true
         <div class="member-status">Master Student (2023-now)</div>
         <div class="member-interests">Research area: Semantic Communication</div>
         <div class="member-email">E-mail: <a href="mailto:yinyb2023@shanghaitech.edu.cn">yinyb2023@shanghaitech.edu.cn</a></div>
-        <div class="member-misc"><a href="">Biography</a></div>
+        <div class="member-misc"><a href="/group/yanbo/">Biography</a></div>
     </div>
 </div>
 
@@ -62,7 +62,7 @@ author_profile: true
         <div class="member-status">Master Student (2023-now)</div>
         <div class="member-interests">Research area: Near-Field Communication and Over-the-Air Computation</div>
         <div class="member-email">E-mail: <a href="mailto:huqsh2023@shanghaitech.edu.cn">huqsh2023@shanghaitech.edu.cn</a></div>
-        <div class="member-misc"><a href="">Biography</a></div>
+        <div class="member-misc"><a href="/group/qiaosheng/">Biography</a></div>
     </div>
 </div>
 
