@@ -13,8 +13,10 @@ author_profile: false
     <div class="member-photo"><img src="/images/yinyb.jpg"></div>
     <div class="member-info-sets">
         <div class="member-name" style="margin-bottom: 25px;">Yanbo Yin</div>
-        <div class="member-misc" style="white-space: pre; font-family: monospace">def biography():<br>&nbsp;&nbsp;if question == education_experience:<br>&nbsp;&nbsp;&nbsp;&nbsp;print(f'Graduated from the School of Information Science and Engineering, Shandong University with Bachelor's degree in 2023. ')<br>&nbsp;&nbsp;return</div>
+        <div class="member-misc">Yanbo Yin graduated from the School of Information Science and Engineering, Shandong University with Bachelor's degree in 2023. He is pursuing his master's degree, and his current main research topic is semantic communication with artificial intelligence.</div>
     </div>
 </div>
+
+<div class="member-misc" style="white-space: pre; font-family: monospace">def biography():<br>&nbsp;&nbsp;if question == education_experience:<br>&nbsp;&nbsp;&nbsp;&nbsp;print(f'Graduated from the School of Information Science and Engineering, Shandong University with Bachelor's degree in 2023. ')<br>&nbsp;&nbsp;return</div>
 
 </div>
