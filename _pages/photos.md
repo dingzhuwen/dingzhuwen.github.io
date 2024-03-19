@@ -16,7 +16,7 @@ author_profile: true
   <div class="cat">Group Photos</div>
 
   <div class="photo-photo">
-    <img src="/images/group-members.jpg">
+    <img src="/images/group-members-23-24.jpg">
     <p>[2024-03] Our Group Members</p>
   </div>
   
