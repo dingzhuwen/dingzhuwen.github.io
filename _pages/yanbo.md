@@ -17,6 +17,6 @@ author_profile: false
     </div>
 </div>
 
-<div class="member-misc" style="white-space: pre; font-family: monospace">def biography():<br>&nbsp;&nbsp;if question == education_experience:<br>&nbsp;&nbsp;&nbsp;&nbsp;print(f'Graduated from the School of Information Science and Engineering, Shandong University with Bachelor's degree in 2023. ')<br>&nbsp;&nbsp;return</div>
+<div class="member-misc" style="white-space: pre; font-family: monospace">1.&nbsp;&nbsp;def biography():<br>2.&nbsp;&nbsp;&nbsp;&nbsp;if question == education_experience:<br>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;print(f'Graduated from the School of Information Science and Engineering, Shandong University<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;with Bachelor's degree in 2023. ')<br>4.&nbsp;&nbsp;&nbsp;&nbsp;return</div>
 
 </div>
