@@ -9,7 +9,7 @@ author_profile: true
 
 <!-- img src="/images/NewYearParty2024.jpg" alt="New Year Party of 2024" width=400> <img src="/images/GatheringwithUndergraduates.jpg" alt="Spring Gathering of 2024" width=400 -->
 
-<div class="photo-framework">
+<div class="content-framework">
 
 <!-- HOW TO USE: add items like this with paths and titles, and pre-defined style will be applied on them automatically, making them well arranged -->
 
