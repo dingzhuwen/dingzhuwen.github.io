@@ -13,6 +13,7 @@ author_profile: true
 
 <!-- HOW TO USE: add items like this with paths and titles, and pre-defined style will be applied on them automatically, making them well arranged -->
 
+  <div class="cat>Group Photos</div>
 
   <div class="photo-photo">
     <img src="/images/GatheringwithUndergraduates.jpg">
@@ -26,5 +27,10 @@ author_profile: true
   </div>
 
   
+
+
+
+
+
 
 </div>
