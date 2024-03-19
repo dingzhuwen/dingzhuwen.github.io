@@ -7,6 +7,8 @@ author_profile: true
 <link rel="stylesheet" href="/css/customized-stylesheet.css">
 
 <div class="content-framework">
+  <div class="cat">Group Members</div>
+    
 <div class="group-member">
     <div class="member-photo"><img src="/images/cat-a.jpg"></div>
     <div class="member-info-sets">
