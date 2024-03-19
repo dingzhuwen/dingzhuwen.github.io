@@ -13,7 +13,7 @@ author_profile: true
     <div class="member-photo"><img src="/images/cat-a.jpg"></div>
     <div class="member-info-sets">
         <div class="member-name">CAT-A</div>
-        <div class="member-status">Cat (???)</div>
+        <div class="member-status">Cat student (???-now)</div>
         <div class="member-interests">Fish</div>
         <div class="member-email">@@@</div>
         <div class="member-misc">Office: ###</div>
@@ -24,7 +24,7 @@ author_profile: true
     <div class="member-photo"><img src="/images/cat-b.jpg"></div>
     <div class="member-info-sets">
         <div class="member-name">CAT-B</div>
-        <div class="member-status">Cat (???)</div>
+        <div class="member-status">Cat student (???-now)</div>
         <div class="member-interests">Fish</div>
         <div class="member-email">@@@</div>
         <div class="member-misc">Office: ###</div>
