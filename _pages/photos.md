@@ -38,7 +38,7 @@ author_profile: true
 
   <div class="photo-photo">
     <img src="/images/WirelessSHT.jpg">
-    <p>[2023-09] Gathering of Wireless@HKU Members at ShanghaiTech</p>
+    <p>[2023-09] Gathering at ShanghaiTech</p>
   </div>
 
   <div class="photo-photo">
