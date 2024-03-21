@@ -32,13 +32,28 @@ author_profile: true
   </div>
 
   <div class="photo-photo">
+    <img src="/images/WCSP2023.jpg">
+    <p>[2023-11] Dr. Wen Attends IEEE WCSP 2023</p>
+  </div>
+
+  <div class="photo-photo">
     <img src="/images/WirelessSHT.jpg">
     <p>[2023-09] Gathering of Wireless@HKU Members at ShanghaiTech</p>
   </div>
 
   <div class="photo-photo">
     <img src="/images/SPAWC.jpg">
-    <p>[2023-09] Gathering at SPAWC 2023</p>
+    <p>[2023-09] Gathering at IEEE SPAWC 2023</p>
+  </div>
+
+  <div class="photo-photo">
+    <img src="/images/GateringatRome.jpg">
+    <p>[2023-05] Gathering at Rome</p>
+  </div>
+
+  <div class="photo-photo">
+    <img src="/images/ICC2023.jpg">
+    <p>[2023-05] Dr. Wen Attends IEEE ICC 2023</p>
   </div>
 
   
