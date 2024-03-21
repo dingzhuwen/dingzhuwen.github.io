@@ -31,6 +31,16 @@ author_profile: true
     <p>[2024-01] New Year Party of 2024</p>
   </div>
 
+  <div class="photo-photo">
+    <img src="/images/WirelessSHT">
+    <p>[2023-09] Gathering of Wireless@HKU Members at ShanghaiTech</p>
+  </div>
+
+  <div class="photo-photo">
+    <img src="/images/SPAWC">
+    <p>[2023-09] Gathering at SPAWC 2023</p>
+  </div>
+
   
 
 
