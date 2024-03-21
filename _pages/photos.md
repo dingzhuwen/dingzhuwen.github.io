@@ -32,12 +32,12 @@ author_profile: true
   </div>
 
   <div class="photo-photo">
-    <img src="/images/WirelessSHT">
+    <img src="/images/WirelessSHT.jpg">
     <p>[2023-09] Gathering of Wireless@HKU Members at ShanghaiTech</p>
   </div>
 
   <div class="photo-photo">
-    <img src="/images/SPAWC">
+    <img src="/images/SPAWC.jpg">
     <p>[2023-09] Gathering at SPAWC 2023</p>
   </div>
 
