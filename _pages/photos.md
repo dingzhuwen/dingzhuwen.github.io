@@ -47,6 +47,11 @@ author_profile: true
   </div>
 
   <div class="photo-photo">
+    <img src="/images/Sangwoo.jpg">
+    <p>[2023-08] Dr. Sangwoo Park visits ShanghaiTech</p>
+  </div>
+
+  <div class="photo-photo">
     <img src="/images/GateringatRome.jpg">
     <p>[2023-05] Gathering at Rome</p>
   </div>
