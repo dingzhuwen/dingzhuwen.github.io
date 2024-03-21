@@ -3,17 +3,17 @@
 }
 
 .photo-photo {
+    vertical-align: top;
     text-align: center;
-    place-items: center;
     display: inline-block;
-    height: 246px;
+    height: 300px;
+    max-height: 300px;
+    max-width: 330px;
     margin-left: 5px;
     margin-right: 5px;
+    margin-bottom: 0px;
 }
 
-.photo-photo img {
-    height: 100%;
-}
 
 .photo-photo img:hover {
     transform: scale(2.2) translate(-70px, 27px);
@@ -23,7 +23,7 @@
     text-align: center;
     font-size: 16px;
     margin-top: 0px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 .cat {
