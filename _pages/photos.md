@@ -37,6 +37,11 @@ author_profile: true
   </div>
 
   <div class="photo-photo">
+    <img src="/images/VTC2023Fall.jpg">
+    <p>[2023-10] Dr. Wen Attends IEEE VTC 2023-Fall</p>
+  </div>
+
+  <div class="photo-photo">
     <img src="/images/WirelessSHT.jpg">
     <p>[2023-09] Gathering at ShanghaiTech</p>
   </div>
