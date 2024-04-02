@@ -17,7 +17,12 @@ author_profile: true
 
   <div class="photo-photo">
     <img src="/images/group-members-23-24.jpg">
-    <p>[2024-03] Our Group Members</p>
+    <p>[2024] Our Group Members</p>
+  </div>
+
+  <div class="photo-photo">
+    <img src="/images/Talk_at_ZJU.jpg">
+    <p>[2024-04] Dr. Wen delievers a talk at ZJU</p>
   </div>
   
   <div class="photo-photo">
