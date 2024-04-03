@@ -42,17 +42,20 @@ Journal Papers
 
 Conference Papers
 ======
-1. Z. Zhuang, __D. Wen__, and Y. Shi, “Decentralized Over-the-Air Computation for Edge AI Inference with Integrated Sensing and Communication,” 2023 IEEE Global Communications Conference, Kuala Lumpur, Malaysia, 2023, pp. 4644-4649.
-2. S. Lin, M. Lee, Q. Chen, D. Wen, W. Du, Z. He, “OverGNN Assisted Power Allocation for Heterogeneous Ultra-Dense Networks,”  2023 International Conference on Wireless Communications and Signal Processing (WCSP), Hangzhou, China, 2023, pp. 152-157.
-3. X. Ye, Y. Sun, __D. Wen__, G. Pan and S. Zhang, “End-to-End Delay Minimization based on Joint Optimization of DNN Partitioning and Resource Allocation for Cooperative Edge Inference," 2023 IEEE 98th Vehicular Technology Conference (VTC2023-Fall), Hong Kong, Hong Kong, 2023, pp. 1-7.
-4. P. Yang, __D. Wen__, Q. Zeng, T. Wang and Y. Shi, “Communication-Efficient Vertically Split Inference via Over-the-Air Computation,” 2023 IEEE 24th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), Shanghai, China, 2023, pp. 1-5.
-5. __D. Wen__, P. Liu, G. Zhu, Y. Shi, J. Xu, Y. C. Eldar, and S. Cui, “Task-Oriented Sensing, Computation, and Communication Integration for Multi-Device Edge AI,” in Proc. IEEE ICC 2023, Rome, Italy, 2023, pp. 3608-3613.
-6. __D. Wen__, X. Jiao, P. Liu, G. Zhu, Y. Shi and K. Huang, “Task-Oriented Over-the-Air Computation for Multi-Device Edge Split Inference,” 2023 IEEE Wireless Communications and Networking Conference (WCNC), Glasgow, United Kingdom, 2023, pp. 1-6.
-7. L. Zeng, __D. Wen__, G. Zhu, C. You, Q. Chen and Y. Shi, “Joint Bandwidth Allocation, Computation Control, and Device Scheduling for Federated Learning with Energy Harvesting Devices,” 2022 56th Asilomar Conference on Signals, Systems, and Computers, Pacific Grove, CA, USA, 2022, pp. 1164-1168.
-8. Y. Wang, C. Zou, __D. Wen__, and Y. Shi, “Federated Learning over LEO Satellite,” 2022 IEEE Globecom Workshops (GC Wkshps), Rio de Janeiro, Brazil, 2022, pp. 1652-1657.
-9. __D. Wen__, M. Bennis, K. Huang, “Accelerating Partitioned Edge Learning via Joint Parameter-and-Bandwidth Allocation,”  in Proc. IEEE Globecom 2020, Dec. 2020.
-10. J. Ren, Y. He, __D. Wen__, G. Yu, K. Huang, and D. Guo, “Importance- and Channel-Aware Scheduling in Cellular Federated Edge Learning”, in 54th Asilomar Conference on Signals, Systems and Computers, Nov. 2020.
-11. __D. Wen__, G. Zhu, and K. Huang, “Reduced-Dimension Design of MIMO AirComp for Data Aggregation in Clustered IoT Networks,” in Proc. IEEE Globecom 2019, Dec. 2019.
-12. __D. Wen__, G. Yu, R. Li, Y. Chen, and G. Y. Li, “Energy- and Spectral-Efficiency Tradeoff in Full-Duplex Enabled Cellular Networks,” in Proc. IEEE Globecom Workshops 2016, Dec. 2016.
-13. Z. Zhang, G. Yu, __D. Wen__, R. Liu, “Joint User Pairing, Resource Block Allocation, and Power Control for Full-Duplex Cellular Networks”, in IEEE/CIC International Conference on Communications in China (ICCC), Jul. 2016.
-14. __D. Wen__, G. Yu, and L. Xu, “Energy-Efficient Mode Selection and Power Control for Device-to-Device Communications,” in Proc. IEEE WCNC 2016, Apr. 2016.
+1. C. Liu, S. Liu, __D. Wen__ and G. Yu, "Adaptive Cluster Head Selection and Spectrum Allocation for D2D-Enabled Collaborative Learning," 2023 IEEE Globecom Workshops (GC Wkshps), Kuala Lumpur, Malaysia, 2023, pp. 491-496.
+2. D. Wang, __D. Wen__, Y. He and G. Yu, "Device Scheduling for Privacy-Aware Integrated Sensing, Computation, and Communication Systems," 2023 IEEE Globecom Workshops (GC Wkshps), Kuala Lumpur, Malaysia, 2023, pp. 957-962.
+3. Y. Wang, J. Zhu, Y. Mao, __D. Wen__, X. Tian and Y. Shi, "Hierarchical Federated Edge Learning over Space-Air-Ground Integrated Networks," 2023 IEEE Globecom Workshops (GC Wkshps), Kuala Lumpur, Malaysia, 2023, pp. 190-196.
+4. Z. Zhuang, __D. Wen__, and Y. Shi, “Decentralized Over-the-Air Computation for Edge AI Inference with Integrated Sensing and Communication,” 2023 IEEE Global Communications Conference, Kuala Lumpur, Malaysia, 2023, pp. 4644-4649.
+5. S. Lin, M. Lee, Q. Chen, D. Wen, W. Du, Z. He, “OverGNN Assisted Power Allocation for Heterogeneous Ultra-Dense Networks,”  2023 International Conference on Wireless Communications and Signal Processing (WCSP), Hangzhou, China, 2023, pp. 152-157.
+6. X. Ye, Y. Sun, __D. Wen__, G. Pan and S. Zhang, “End-to-End Delay Minimization based on Joint Optimization of DNN Partitioning and Resource Allocation for Cooperative Edge Inference," 2023 IEEE 98th Vehicular Technology Conference (VTC2023-Fall), Hong Kong, Hong Kong, 2023, pp. 1-7.
+7. P. Yang, __D. Wen__, Q. Zeng, T. Wang and Y. Shi, “Communication-Efficient Vertically Split Inference via Over-the-Air Computation,” 2023 IEEE 24th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), Shanghai, China, 2023, pp. 1-5.
+8. __D. Wen__, P. Liu, G. Zhu, Y. Shi, J. Xu, Y. C. Eldar, and S. Cui, “Task-Oriented Sensing, Computation, and Communication Integration for Multi-Device Edge AI,” in Proc. IEEE ICC 2023, Rome, Italy, 2023, pp. 3608-3613.
+9. __D. Wen__, X. Jiao, P. Liu, G. Zhu, Y. Shi and K. Huang, “Task-Oriented Over-the-Air Computation for Multi-Device Edge Split Inference,” 2023 IEEE Wireless Communications and Networking Conference (WCNC), Glasgow, United Kingdom, 2023, pp. 1-6.
+10. L. Zeng, __D. Wen__, G. Zhu, C. You, Q. Chen and Y. Shi, “Joint Bandwidth Allocation, Computation Control, and Device Scheduling for Federated Learning with Energy Harvesting Devices,” 2022 56th Asilomar Conference on Signals, Systems, and Computers, Pacific Grove, CA, USA, 2022, pp. 1164-1168.
+11. Y. Wang, C. Zou, __D. Wen__, and Y. Shi, “Federated Learning over LEO Satellite,” 2022 IEEE Globecom Workshops (GC Wkshps), Rio de Janeiro, Brazil, 2022, pp. 1652-1657.
+12. __D. Wen__, M. Bennis, K. Huang, “Accelerating Partitioned Edge Learning via Joint Parameter-and-Bandwidth Allocation,”  in Proc. IEEE Globecom 2020, Dec. 2020.
+13. J. Ren, Y. He, __D. Wen__, G. Yu, K. Huang, and D. Guo, “Importance- and Channel-Aware Scheduling in Cellular Federated Edge Learning”, in 54th Asilomar Conference on Signals, Systems and Computers, Nov. 2020.
+14. __D. Wen__, G. Zhu, and K. Huang, “Reduced-Dimension Design of MIMO AirComp for Data Aggregation in Clustered IoT Networks,” in Proc. IEEE Globecom 2019, Dec. 2019.
+15. __D. Wen__, G. Yu, R. Li, Y. Chen, and G. Y. Li, “Energy- and Spectral-Efficiency Tradeoff in Full-Duplex Enabled Cellular Networks,” in Proc. IEEE Globecom Workshops 2016, Dec. 2016.
+16. Z. Zhang, G. Yu, __D. Wen__, R. Liu, “Joint User Pairing, Resource Block Allocation, and Power Control for Full-Duplex Cellular Networks”, in IEEE/CIC International Conference on Communications in China (ICCC), Jul. 2016.
+17. __D. Wen__, G. Yu, and L. Xu, “Energy-Efficient Mode Selection and Power Control for Device-to-Device Communications,” in Proc. IEEE WCNC 2016, Apr. 2016.
