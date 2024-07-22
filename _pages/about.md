@@ -28,7 +28,8 @@ __Research Topics__
 
 __Activities__
 * Dr. Wen will co-organize __IEEE PIMRC 2024 Workshop on Task-Oriented and Pragmatic Communications for 6G__. ([Workshop Homepage][1])
-* Dr. Wen will co-organize __IEEE ICC 2024 Workshop on Task-Oriented and Generative Communications for 6G__. ([Workshop Homepage][2])
+* Dr. Wen co-organized __ASSIST 2024 Session 6: Intelligent Communication, Sensing, and Decision-Making__. ([Website][6])
+* Dr. Wen co-organized __IEEE ICC 2024 Workshop on Task-Oriented and Generative Communications for 6G__. ([Workshop Homepage][2])
 * The paper titled with "Hierarchical Federated Learning over Space-Air-Ground Integrated Networks" was awarded __IEEE GlobeCom Workshop Best Paper__. 
 * Dr. Wen was awarded __Excellent Mentor of ShanghaiTech University__ on 2023/11/8.
 * Dr. Wen co-organized __IEEE VTC 2023-Fall Workshop on Task-Oriented Communications and Networking for 6G__. ([Workshop Homepage][3])
@@ -38,7 +39,7 @@ __Activities__
 * Dr. Wen co-organized __IEEE GlobeCom 2022 Tutorial on Edge Artificial Intelligence for 6G: Scalability, Trustworthiness, and Applications__. ([Details][5])
 
 __Work Experience__
-* Dec. 2021 - Present: Assitant Professor, School of Information Scienece and Technology, ShanghaiTech University
+* Dec. 2021 - Present: Assitant Professor, School of Information Science and Technology, ShanghaiTech University
 
 __Education Experience__
 * B.S. in Department of Information Science and Electronic Engineering, Zhejiang University, 2014
@@ -51,3 +52,4 @@ __Education Experience__
 [3]: https://events.vtsociety.org/vtc2023-fall/workshops/w6-first-ieee-workshop-on-task-oriented-communications-and-networking-for-6g/
 [4]: https://pimrc2023.ieee-pimrc.org/program/workshops/edge-learning-for-5g-mobile-networks-and-beyond/
 [5]: https://globecom2022.ieee-globecom.org/program/technical-tutorials#TU-23:%20Edge%20Artificial%20Intelligence%20for%206G:%20Scalability,%20Trustworthiness,%20and%20Applications
+[6]: https://ssist.shanghaitech.edu.cn/2024/program
