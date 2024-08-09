@@ -21,6 +21,11 @@ author_profile: true
   </div>
 
   <div class="photo-photo">
+    <img src="/images/Sijing_ICCC_2024.jpg">
+    <p>[2024-08] Sijing Attends IEEE ICCC 2024</p>
+  </div>
+
+  <div class="photo-photo">
     <img src="/images/Talk_at_ZJU.jpg">
     <p>[2024-04] Dr. Wen delievers a talk at ZJU</p>
   </div>
