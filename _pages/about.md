@@ -27,7 +27,8 @@ __Research Topics__
 * Task-Oriented Communications
 
 __Activities__
-* Dr. Wen will co-organize __IEEE PIMRC 2024 Workshop on Task-Oriented and Pragmatic Communications for 6G__. ([Workshop Homepage][1])
+* Dr. Wen will co-organize __IEEE ICC 2025 Workshop on Task-Oriented and Generative Communications for 6G__.
+* Dr. Wen co-organized __IEEE PIMRC 2024 Workshop on Task-Oriented and Pragmatic Communications for 6G__. ([Workshop Homepage][1])
 * Dr. Wen co-organized __ASSIST 2024 Session 6: Intelligent Communication, Sensing, and Decision-Making__. ([Website][6])
 * Dr. Wen co-organized __IEEE ICC 2024 Workshop on Task-Oriented and Generative Communications for 6G__. ([Workshop Homepage][2])
 * The paper titled with "Hierarchical Federated Learning over Space-Air-Ground Integrated Networks" was awarded __IEEE GlobeCom Workshop Best Paper__. 
