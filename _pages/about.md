@@ -35,7 +35,7 @@ __Activities__
 * Dr. Wen was awarded __Excellent Mentor of ShanghaiTech University__ on 2023/11/8.
 * Dr. Wen co-organized __IEEE VTC 2023-Fall Workshop on Task-Oriented Communications and Networking for 6G__. ([Workshop Homepage][3])
 * Dr. Wen co-organized __IEEE PIMRC 2023 Workshop on Edge Learning for 5G Mobile Networks and Beyond__. ([Workshop Homepage][4])
-* Dr. Wen was awarded __Shanghai Overseas High-Level Talent Program （上海海外高层次人才计划）__ in 2023.
+* Dr. Wen was awarded __Shanghai Overseas High-Level Young Talent Program 上海海外高层次人才计划（青年）__ in 2023.
 * Dr. Wen received __Exemplary Reviewer of IEEE Transactions on Communications__ in 2022. (Top 5% of all reviewers)
 * Dr. Wen co-organized __IEEE GlobeCom 2022 Tutorial on Edge Artificial Intelligence for 6G: Scalability, Trustworthiness, and Applications__. ([Details][5])
 
