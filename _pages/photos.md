@@ -16,8 +16,8 @@ author_profile: true
   <div class="cat">Group Photos</div>
 
   <div class="photo-photo">
-    <img src="/images/group-members-23-24.jpg">
-    <p>[2024] Our Group Members</p>
+    <img src="/images/GroupMember2410.jpg">
+    <p>[2024-10] Our Group Members</p>
   </div>
 
   <div class="photo-photo">
@@ -39,6 +39,11 @@ author_profile: true
   <div class="photo-photo">
     <img src="/images/NewYearParty2024.jpg">
     <p>[2024-01] New Year Party of 2024</p>
+  </div>
+
+  <div class="photo-photo">
+    <img src="/images/group-members-23-24.jpg">
+    <p>[2024-01] Our Group Members</p>
   </div>
 
   <div class="photo-photo">
