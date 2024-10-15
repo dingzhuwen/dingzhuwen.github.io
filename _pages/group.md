@@ -66,6 +66,27 @@ author_profile: true
     </div>
 </div>
 
+<div class="group-member">
+    <div class="member-photo"><img src="/images/ZhangShuo.jpg"></div>
+    <div class="member-info-sets">
+        <div class="member-name">Shuo Zhang</div>
+        <div class="member-status">Master Student (2024-now)</div>
+        <div class="member-interests">Research area: Atomic MIMO Communications</div>
+        <div class="member-email">E-mail: <a href="mailto:zhangshuo2024@shanghaitech.edu.cn">zhangshuo2024@shanghaitech.edu.cn</a></div>
+        <div class="member-misc"><a href="/group/zhangshuo/">Biography</a></div>
+    </div>
+</div>
+
+<div class="group-member">
+    <div class="member-photo"><img src="/images/LongWenjie.jpg"></div>
+    <div class="member-info-sets">
+        <div class="member-name">Wenjie Long</div>
+        <div class="member-status">Master Student (2024-now)</div>
+        <div class="member-interests">Research area: Integrated Sensing-Communication-Computation</div>
+        <div class="member-email">E-mail: <a href="mailto:longwj2024@shanghaitech.edu.cn">longwj2024@shanghaitech.edu.cn</a></div>
+        <div class="member-misc"><a href="/group/longwenjie/">Biography</a></div>
+    </div>
+</div>
 
 
 
