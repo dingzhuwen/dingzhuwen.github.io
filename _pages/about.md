@@ -27,7 +27,8 @@ __Research Topics__
 * Task-Oriented Communications
 
 __Activities__
-* Dr. Wen will co-organize __IEEE ICC 2025 Workshop on Task-Oriented and Generative Communications for 6G__.
+* Dr. Wen will co-organize __IEEE ICC 2025 Workshop on Task-Oriented and Generative Communications for 6G__. ([Workshop Homepage][7])
+* Dr. Wen will co-organize __IEEE WCNC 2025 Workshop on Task-Oriented and Generative Communications for 6G__. ([Workshop Homepage][8])
 * Dr. Wen co-organized __IEEE PIMRC 2024 Workshop on Task-Oriented and Pragmatic Communications for 6G__. ([Workshop Homepage][1])
 * Dr. Wen co-organized __ASSIST 2024 Session 6: Intelligent Communication, Sensing, and Decision-Making__. ([Website][6])
 * Dr. Wen co-organized __IEEE ICC 2024 Workshop on Task-Oriented and Generative Communications for 6G__. ([Workshop Homepage][2])
@@ -54,3 +55,5 @@ __Education Experience__
 [4]: https://pimrc2023.ieee-pimrc.org/program/workshops/edge-learning-for-5g-mobile-networks-and-beyond/
 [5]: https://globecom2022.ieee-globecom.org/program/technical-tutorials#TU-23:%20Edge%20Artificial%20Intelligence%20for%206G:%20Scalability,%20Trustworthiness,%20and%20Applications
 [6]: https://ssist.shanghaitech.edu.cn/2024/program
+[7]: https://sites.google.com/view/togc-icc25/home
+[8]: https://sites.google.com/view/togc-wcnc25/home
