@@ -16,7 +16,7 @@ __Latest News__
     - Submission Link: <https://edas.info/newPaper.php?c=32909&track=127539>.
     - Submission Deadline (Extended): Dec. 1, 2024.
 
-__<font size=18>Expired News</font>__
+__Expired News__
 
 *  __Call for Submissions__: IEEE PIMRC Workshop on Task-Oriented and Pragmatic Communications for 6G
     - Workshop Website: <https://pimrc2024.ieee-pimrc.org/workshop/ws-03-task-oriented-and-pragmatic-communications-6g>.
