@@ -14,7 +14,7 @@ __Latest News__
 * __Call for Submissions__: IEEE WCNC 2024 Workshop on Task-Oriented and Generative Communications for 6G
     - Workshop Website: <https://sites.google.com/view/togc-wcnc25/home>.
     - Submission Link: <https://edas.info/newPaper.php?c=32909&track=127539>.
-    - Submission Deadline (Extended): Dec. 1, 2024.
+    - Submission Deadline: Dec. 1, 2024.
 
 __Expired News__
 
