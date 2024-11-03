@@ -56,4 +56,4 @@ __Education Experience__
 [5]: https://globecom2022.ieee-globecom.org/program/technical-tutorials#TU-23:%20Edge%20Artificial%20Intelligence%20for%206G:%20Scalability,%20Trustworthiness,%20and%20Applications
 [6]: https://ssist.shanghaitech.edu.cn/2024/program
 [7]: https://sites.google.com/view/togc-icc25/home
-[8]: https://sites.google.com/view/togc-wcnc25/home
+[8]: https://wcnc2025.ieee-wcnc.org/workshop/ws11-task-oriented-and-generative-communications-6g
