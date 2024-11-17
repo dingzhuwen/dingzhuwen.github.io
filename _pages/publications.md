@@ -17,7 +17,11 @@ author_profile: true
 
 Journal Papers
 ======
-__Topic 1: Integrated Sensing-Communication-Computation__
+__Topic 1: Integrated Sensing-Communication-Computation (ISCC)__
+
+__Topic 2: Task-Oriented and Semantic Communications__
+
+__Topic 3: Edge Machine Learning__
 1. S. Liu, __D. Wen__, D. Li, Q. Chen, G. Zhu, and Y. Shi, "Energy-Efficient Optimal Mode Selection for Edge AI Inference via Integrated Sensing-Communication-Computation," in __IEEE Trans. Mobile Comput.__, vol. 23, no. 12, pp. 14248-14262, Dec. 2024, doi: 10.1109/TMC.2024.3440581. (Corresponding Author)
 2. X. Jiao, __D. Wen__, G. Zhu, W. Jiang, W. Luo, and Y. Shi, “Task-Oriented Over-the-Air Computation for Edge-Device Co-inference with Balanced Classification Accuracy,” in __IEEE Trans. Veh. Technol.__,  vol. 73, no. 11, pp. 17818-17823, Nov. 2024, doi: 10.1109/TVT.2024.3422418. (Co-Corresponding Author)
 3. __D. Wen__, X. Li, Y. Zhou, Y. Shi, S. Wu, C. Jiang, “Integrated Sensing-Communication-Computation for Edge Artificial Intelligence,” __IEEE Internet Things Mag.__, vol. 7, no. 4, pp. 14-20, Jul. 2024, doi: 10.1109/IOTM.001.2300146.
