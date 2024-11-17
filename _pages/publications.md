@@ -18,7 +18,10 @@ author_profile: true
 Journal Papers
 ======
 __Topic 1: Integrated Sensing-Communication-Computation (ISCC)__
-1. __D. Wen__, P. Liu, G. Zhu, Y. Shi, J. Xu, Y. C. Eldar, and S. Cui, “Task-Oriented Sensing, Computation, and Communication Integration for Multi-Device Edge AI,” __IEEE Trans. Wireless Commun.__, vol. 23, no. 3, pp. 2486-2502, Mar. 2024, doi: 10.1109/TWC.2023.3303232. (Related Code: https://github.com/PeixiLiu/humanMotionRadar)
+1. __D. Wen__, P. Liu, G. Zhu, Y. Shi, J. Xu, Y. C. Eldar, and S. Cui, “Task-Oriented Sensing, Computation, and Communication Integration for Multi-Device Edge AI,” __IEEE Trans. Wireless Commun.__, vol. 23, no. 3, pp. 2486-2502, Mar. 2024, doi: 10.1109/TWC.2023.3303232. (__ESI Highly Cited Paper__, Related Code: https://github.com/PeixiLiu/humanMotionRadar)
+
+
+
 __Topic 2: Task-Oriented and Semantic Communications__
 
 __Topic 3: Edge Machine Learning__
