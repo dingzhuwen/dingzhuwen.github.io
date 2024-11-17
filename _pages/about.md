@@ -27,6 +27,7 @@ __Research Topics__
 * Task-Oriented Communications
 
 __Activities__
+* The paper “Task-Oriented Sensing, Computation, and Communication Integration for Multi-Device Edge AI” was rated as an __ESI Highly Cited Paper__.
 * Dr. Wen will co-organize __IEEE ICC 2025 Workshop on Task-Oriented and Generative Communications for 6G__. ([Workshop Homepage][7])
 * Dr. Wen will co-organize __IEEE WCNC 2025 Workshop on Task-Oriented and Generative Communications for 6G__. ([Workshop Homepage][8])
 * Dr. Wen co-organized __IEEE PIMRC 2024 Workshop on Task-Oriented and Pragmatic Communications for 6G__. ([Workshop Homepage][1])
