@@ -23,6 +23,7 @@ __Topic 1: Integrated Sensing-Communication-Computation (ISCC)__
 3. __D. Wen__, X. Li, Y. Zhou, Y. Shi, S. Wu, C. Jiang, “Integrated Sensing-Communication-Computation for Edge Artificial Intelligence,” __IEEE Internet Things Mag.__, vol. 7, no. 4, pp. 14-20, Jul. 2024, doi: 10.1109/IOTM.001.2300146.
 4. D. Wang, __D. Wen__, Y. He, Q. Chen, G. Zhu, and G. Yu, “Joint Device Scheduling and Resource Allocation for ISCC-Based Multi-View-Multi-Task Inference,” in __IEEE Internet Things J.__, doi: 10.1109/JIOT.2024.3456569. (Corresponding Author)
 5. Z. Zhuang, __D. Wen__, Y. Shi, G. Zhu, S. Wu, and D. Niyato, “Integrated Sensing-Communication-Computation for Over-the-Air Edge AI Inference,”  __IEEE Trans. Wireless Commun.__, vol. 23, no. 4, pp. 3205-3220, Apr. 2024, doi: 10.1109/TWC.2023.3306465. (Co-Corresponding Author)
+6. D. Wen, Y. Zhou, X. Li, Y. Shi, K. Huang, and K. B. Letaief, “A Survey on Sensing, Communication, and Computation,” submitted to IEEE Commun. Surv. Tut., 2024.
 
 
 
@@ -34,6 +35,8 @@ __Topic 2: Task-Oriented and Semantic Communications__
 5. Z. Hu, C. You, T. Liu, __D. Wen__, Y. Hu, Y. Cui, Y. Gong, and K. Huang, “Semantic Communication Meets Edge Intelligence: Semantic-Relay-Aided Text Transmissions,” in __IEEE Internet Things J.__, doi: 10.1109/JIOT.2024.3433431.
 6. Y. Shi, Y. Zhou, __D. Wen__, Y. Wu, C. Jiang, and K. B. Letaief, “Task-Oriented Communications for 6G: Vision, Principles, and Technologies,” __IEEE Wireless Commun.__, vol. 30, no. 3, pp. 78-85, Jun. 2023, doi: 10.1109/MWC.002.2200468.
 7. Q. Lan, __D. Wen__, Z. Zhang, Q. Zeng, X. Chen, P. Popovski, and K. Huang, “What is Semantic Communication? A View on Conveying Meaning in the Era of Machine Intelligence,” __J. Commun. Inf. Netw.__, vol. 6, no. 4, pp. 336 – 371, Dec. 2021, doi: 10.23919/JCIN.2021.9663101.
+
+
 
 __Topic 3: Edge Machine Learning__
 1. S. Liu, C. Liu, __D. Wen__, and G. Yu,  “Efficient Collaborative Learning Over Unreliable D2D Network: Adaptive Cluster Head Selection and Resource Allocation,” in __IEEE Trans. Commun.__, doi: 10.1109/TCOMM.2024.3435072. (Corresponding Author)
@@ -47,9 +50,9 @@ __Topic 3: Edge Machine Learning__
 9. Y. Chen, S. Liu, and __D. Wen__, “Communication Efficient Decentralized Learning over D2D Network: Adaptive Relay Selection and Resource Allocation,” in __IEEE Wireless Commun. Lett.__, vol. 13, no. 9, pp. 2362-2366, Sept. 2024, doi: 10.1109/LWC.2024.3412674.
 10. Q. Chen, Z. You, __D. Wen__, and Z. Zhang, “Enhanced Hybrid Hierarchical Federated Edge Learning Over Heterogeneous Networks,” __IEEE Trans. Veh. Technol.__, vol. 72, no. 11, pp. 14601-14614, Nov. 2023, doi: 10.1109/TVT.2023.3287355.
 11. Y. Wang, __D. Wen__, Y. Mao, and Y. Shi, “RIS-Assisted Federated Learning in Multi-Cell Wireless Networks,” __ZTE Commun.__, vol. 21, no. 1, pp. 25-37, Mar. 2022, doi: 10.12142/ZTECOM.202301004.
+12. J. Ren, Y. He, __D. Wen__, G. Yu, K. Huang, and D. Guo, “Scheduling in Cellular Federated Edge Learning with Importance and Channel Awareness,” __IEEE Trans. Wireless Commun.__, vol. 19, no. 11, pp. 7690-7703, Nov. 2020, doi: 10.1109/TWC.2020.3015671.
 
-  
-24. J. Ren, Y. He, __D. Wen__, G. Yu, K. Huang, and D. Guo, “Scheduling in Cellular Federated Edge Learning with Importance and Channel Awareness,” __IEEE Trans. Wireless Commun.__, vol. 19, no. 11, pp. 7690-7703, Nov. 2020, doi: 10.1109/TWC.2020.3015671.
+
 
 __Other Topics__
 1. __D. Wen__, G. Zhu, and K. Huang, “Reduced-Dimension Design of MIMO Over-the-Air Computing for Data Aggregation in Clustered IoT Networks,” __IEEE Trans. Wireless Commun.__, vol. 18, no. 11, pp. 5255-5268, Nov. 2019, doi: 10.1109/TWC.2019.2934956.
