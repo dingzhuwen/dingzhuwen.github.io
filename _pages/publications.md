@@ -23,7 +23,7 @@ __Topic 1: Integrated Sensing-Communication-Computation (ISCC)__
 3. __D. Wen__, X. Li, Y. Zhou, Y. Shi, S. Wu, C. Jiang, “Integrated Sensing-Communication-Computation for Edge Artificial Intelligence,” __IEEE Internet Things Mag.__, vol. 7, no. 4, pp. 14-20, Jul. 2024, doi: 10.1109/IOTM.001.2300146.
 4. D. Wang, __D. Wen__, Y. He, Q. Chen, G. Zhu, and G. Yu, “Joint Device Scheduling and Resource Allocation for ISCC-Based Multi-View-Multi-Task Inference,” in __IEEE Internet Things J.__, doi: 10.1109/JIOT.2024.3456569. (Corresponding Author)
 5. Z. Zhuang, __D. Wen__, Y. Shi, G. Zhu, S. Wu, and D. Niyato, “Integrated Sensing-Communication-Computation for Over-the-Air Edge AI Inference,”  __IEEE Trans. Wireless Commun.__, vol. 23, no. 4, pp. 3205-3220, Apr. 2024, doi: 10.1109/TWC.2023.3306465. (Co-Corresponding Author)
-6. D. Wen, Y. Zhou, X. Li, Y. Shi, K. Huang, and K. B. Letaief, “A Survey on Sensing, Communication, and Computation,” submitted to IEEE Commun. Surv. Tut., 2024.
+6. __D. Wen__, Y. Zhou, X. Li, Y. Shi, K. Huang, and K. B. Letaief, “A Survey on Sensing, Communication, and Computation,” submitted to IEEE Commun. Surv. Tut., 2024.
 
 
 
