@@ -52,18 +52,14 @@ __Topic 3: Edge Machine Learning__
 24. J. Ren, Y. He, __D. Wen__, G. Yu, K. Huang, and D. Guo, “Scheduling in Cellular Federated Edge Learning with Importance and Channel Awareness,” __IEEE Trans. Wireless Commun.__, vol. 19, no. 11, pp. 7690-7703, Nov. 2020, doi: 10.1109/TWC.2020.3015671.
 
 __Other Topics__
+1. __D. Wen__, G. Zhu, and K. Huang, “Reduced-Dimension Design of MIMO Over-the-Air Computing for Data Aggregation in Clustered IoT Networks,” __IEEE Trans. Wireless Commun.__, vol. 18, no. 11, pp. 5255-5268, Nov. 2019, doi: 10.1109/TWC.2019.2934956.
+2. __D. Wen__, G. Yu, R. Li, Y. Chen, and G.Y. Li, “Results on Energy-and Spectral-Efficiency Tradeoff in Cellular Networks with Full-Duplex Enabled Base Stations,” __IEEE Trans. Wireless Commun.__, vol. 16, no. 3, pp. 1494-1507, Mar. 2017, doi: 10.1109/TWC.2016.2647593.
+3. __D. Wen__, G. Yu, “Full-Duplex and Half-Duplex: Power Efficiency Comparison,” __Electron. Lett.__, vol. 52, no. 6, pp. 483-485, Mar. 2016.
+4. __D. Wen__ and G. Yu, “Time-Division Cellular Networks with Full-Duplex Base Stations,” __IEEE Commun. Lett.__, vol. 20, no. 2, pp. 392-395, Feb. 2016, doi: 10.1109/LCOMM.2015.2512865.
+5. G. Yu, __D. Wen__, and F. Qu, “Joint User Scheduling and Channel Allocation for Cellular Networks with Full Duplex Base Stations,” __IET Commun.__, vol. 1, no. 5, pp. 479-486, Mar. 2016.
+6. H. Zhu, L. Chen, __D. Wen__, X. Chen, and W. Wang, “Balancing Straggler Mitigation and Information Protection for Matrix Multiplication in Heterogeneous Multi-Group Networks,” in __IEEE Trans. Commun.__, doi: 10.1109/TCOMM.2024.3450797.
+7. L. Chen, __D. Wen__, C. Zhong, G. Yu, “Hybrid Full-/Half-Duplex Cellular Networks: User Admission and Power Control,” __Front. Inf. Technol. Electron. Eng.__, vol. 19, no. 3, pp. 379-387, May 2018.
 
-
-10. H. Zhu, L. Chen, __D. Wen__, X. Chen, and W. Wang, “Balancing Straggler Mitigation and Information Protection for Matrix Multiplication in Heterogeneous Multi-Group Networks,” in __IEEE Trans. Commun.__, doi: 10.1109/TCOMM.2024.3450797.
-
-
-
-26. __D. Wen__, G. Zhu, and K. Huang, “Reduced-Dimension Design of MIMO Over-the-Air Computing for Data Aggregation in Clustered IoT Networks,” __IEEE Trans. Wireless Commun.__, vol. 18, no. 11, pp. 5255-5268, Nov. 2019, doi: 10.1109/TWC.2019.2934956.
-27. L. Chen, __D. Wen__, C. Zhong, G. Yu, “Hybrid Full-/Half-Duplex Cellular Networks: User Admission and Power Control,” __Front. Inf. Technol. Electron. Eng.__, vol. 19, no. 3, pp. 379-387, May 2018.
-28. __D. Wen__, G. Yu, R. Li, Y. Chen, and G.Y. Li, “Results on Energy-and Spectral-Efficiency Tradeoff in Cellular Networks with Full-Duplex Enabled Base Stations,” __IEEE Trans. Wireless Commun.__, vol. 16, no. 3, pp. 1494-1507, Mar. 2017, doi: 10.1109/TWC.2016.2647593.
-29. __D. Wen__, G. Yu, “Full-Duplex and Half-Duplex: Power Efficiency Comparison,” __Electron. Lett.__, vol. 52, no. 6, pp. 483-485, Mar. 2016.
-30. G. Yu, __D. Wen__, and F. Qu, “Joint User Scheduling and Channel Allocation for Cellular Networks with Full Duplex Base Stations,” __IET Commun.__, vol. 1, no. 5, pp. 479-486, Mar. 2016.
-31. __D. Wen__ and G. Yu, “Time-Division Cellular Networks with Full-Duplex Base Stations,” __IEEE Commun. Lett.__, vol. 20, no. 2, pp. 392-395, Feb. 2016, doi: 10.1109/LCOMM.2015.2512865.
 
 
 Conference Papers
