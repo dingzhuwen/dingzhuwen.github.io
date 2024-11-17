@@ -7,7 +7,7 @@ author_profile: true
 
 __Latest News__
 
-* Dr. Wen's paper titled with “Task-Oriented Sensing, Computation, and Communication Integration for Multi-Device Edge AI” was rate as __ESI Highly Cited Paper__.
+* Dr. Wen's paper titled with “Task-Oriented Sensing, Computation, and Communication Integration for Multi-Device Edge AI” was rated as an __ESI Highly Cited Paper__.
 * __Call for Submissions__: IEEE ICC 2025 Workshop on Task-Oriented and Generative Communications for 6G
     - Workshop Website: <https://sites.google.com/view/togc-icc25/home>.
     - Submission Link: TBD.
