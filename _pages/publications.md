@@ -18,14 +18,13 @@ author_profile: true
 Journal Papers
 ======
 __Topic 1: Integrated Sensing-Communication-Computation (ISCC)__
-
+1. __D. Wen__, P. Liu, G. Zhu, Y. Shi, J. Xu, Y. C. Eldar, and S. Cui, “Task-Oriented Sensing, Computation, and Communication Integration for Multi-Device Edge AI,” __IEEE Trans. Wireless Commun.__, vol. 23, no. 3, pp. 2486-2502, Mar. 2024, doi: 10.1109/TWC.2023.3303232. (Related Code: https://github.com/PeixiLiu/humanMotionRadar)
 __Topic 2: Task-Oriented and Semantic Communications__
 
 __Topic 3: Edge Machine Learning__
 1. S. Liu, __D. Wen__, D. Li, Q. Chen, G. Zhu, and Y. Shi, "Energy-Efficient Optimal Mode Selection for Edge AI Inference via Integrated Sensing-Communication-Computation," in __IEEE Trans. Mobile Comput.__, vol. 23, no. 12, pp. 14248-14262, Dec. 2024, doi: 10.1109/TMC.2024.3440581. (Corresponding Author)
 2. X. Jiao, __D. Wen__, G. Zhu, W. Jiang, W. Luo, and Y. Shi, “Task-Oriented Over-the-Air Computation for Edge-Device Co-inference with Balanced Classification Accuracy,” in __IEEE Trans. Veh. Technol.__,  vol. 73, no. 11, pp. 17818-17823, Nov. 2024, doi: 10.1109/TVT.2024.3422418. (Co-Corresponding Author)
 3. __D. Wen__, X. Li, Y. Zhou, Y. Shi, S. Wu, C. Jiang, “Integrated Sensing-Communication-Computation for Edge Artificial Intelligence,” __IEEE Internet Things Mag.__, vol. 7, no. 4, pp. 14-20, Jul. 2024, doi: 10.1109/IOTM.001.2300146.
-4. __D. Wen__, P. Liu, G. Zhu, Y. Shi, J. Xu, Y. C. Eldar, and S. Cui, “Task-Oriented Sensing, Computation, and Communication Integration for Multi-Device Edge AI,” __IEEE Trans. Wireless Commun.__, vol. 23, no. 3, pp. 2486-2502, Mar. 2024, doi: 10.1109/TWC.2023.3303232. (Related Code: https://github.com/PeixiLiu/humanMotionRadar)
 5. __D. Wen__, X. Jiao, P. Liu, G. Zhu, Y. Shi, and K. Huang, “Task-Oriented Over-the-Air Computation for Multi-Device Edge AI,” __IEEE Trans. Wireless Commun.__, vol. 23, no. 3, pp. 2039-2053, Mar. 2024, doi: 10.1109/TWC.2023.3294703.
 6. P. Zhang, __D. Wen__, G. Zhu, Q. Chen, K. Han, and Y. Shi, “Collaborative Edge AI Inference over Cloud-RAN,” __IEEE Trans. Commun.__, vol. 72, no. 9, pp. 5641-5656, Sept. 2024, doi: 10.1109/TCOMM.2024.3388488. (Corresponding Author)
 7. D. Wang, __D. Wen__, Y. He, Q. Chen, G. Zhu, and G. Yu, “Joint Device Scheduling and Resource Allocation for ISCC-Based Multi-View-Multi-Task Inference,” in __IEEE Internet Things J.__, doi: 10.1109/JIOT.2024.3456569. (Corresponding Author)
