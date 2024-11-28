@@ -39,18 +39,19 @@ __Topic 2: Task-Oriented and Semantic Communications__
 
 
 __Topic 3: Edge Machine Learning__
-1. S. Liu, C. Liu, __D. Wen__, and G. Yu,  “Efficient Collaborative Learning Over Unreliable D2D Network: Adaptive Cluster Head Selection and Resource Allocation,” in __IEEE Trans. Commun.__, doi: 10.1109/TCOMM.2024.3435072. (Corresponding Author)
-2. P. Yang, Y. Jiang, __D. Wen__, T. Wang, C. N. Jones, Y. Shi, “Decentralized Over-the-Air Federated Learning by Second-Order Optimization Method,” __IEEE Trans. Wireless Commun.__, vol. 23, no. 6, pp. 5632-5647, June 2024, doi: 10.1109/TWC.2023.3327610. (Co-Corresponding Author)
-3. L. Zeng, __D. Wen__, G. Zhu, C. You, Q. Chen, and Y. Shi, “Federated Learning with Energy Harvesting Devices,” __IEEE Trans. Green Commun. Netw.__, vol.8, no. 1,  pp. 190-204, Mar. 2024, doi: 10.1109/TGCN.2023.3310569. (Corresponding Author)
-4. S. Liu, G. Yu, __D. Wen__, X. Chen, M. Bennis, and H. Chen, “Communication and Energy Efficient Decentralized Learning over D2D Networks,”  __IEEE Trans. Wireless Commun.__, vol. 22, no.12, pp. 9549-9563, Dec. 2023, doi: 10.1109/TWC.2023.3271854. (Corresponding Author)
-5. __D. Wen__, K.-J. Jeon, and K. Huang, “Federated Dropout -- A Simple Approach for Enabling Federated Learning on Resource Constrained Devices,” __IEEE Wireless Commun. Lett.__, vol. 11, no. 5, pp. 923-927, May 2022, doi: 10.1109/LWC.2022.3149783.
-6. __D. Wen__, K.-J. Jeon, M. Bennis, and K. Huang, “Adaptive Subcarrier, Parameter, and Power Allocation for Partitioned Edge Learning over Broadband Channels”, __IEEE Trans. Wireless Commun.__, vol. 20, no. 12, pp. 8348-8361, Dec. 2021, doi: 10.1109/TWC.2021.3092075.
-7. __D. Wen__, M. Bennis, and K. Huang, “Joint Parameter-and-Bandwidth Allocation for Improving the Efficiency of Partitioned Edge Learning,” __IEEE Trans. Wireless Commun.__, vol. 19, no. 12, pp. 8272-8286, Dec. 2020, doi: 10.1109/TWC.2020.3021177.
-8. __D. Wen__, X. Li, Q. Zeng, J. Ren, and K. Huang, “An Overview of Data-Importance Aware Radio Resource Management for Edge Machine Learning,” __J. Commun. Inf. Netw.__, vol. 4, no. 4, pp. 1–14, Dec. 2019, doi: 10.23919/JCIN.2019.9005429.
-9. Y. Chen, S. Liu, and __D. Wen__, “Communication Efficient Decentralized Learning over D2D Network: Adaptive Relay Selection and Resource Allocation,” in __IEEE Wireless Commun. Lett.__, vol. 13, no. 9, pp. 2362-2366, Sept. 2024, doi: 10.1109/LWC.2024.3412674.
-10. Q. Chen, Z. You, __D. Wen__, and Z. Zhang, “Enhanced Hybrid Hierarchical Federated Edge Learning Over Heterogeneous Networks,” __IEEE Trans. Veh. Technol.__, vol. 72, no. 11, pp. 14601-14614, Nov. 2023, doi: 10.1109/TVT.2023.3287355.
-11. Y. Wang, __D. Wen__, Y. Mao, and Y. Shi, “RIS-Assisted Federated Learning in Multi-Cell Wireless Networks,” __ZTE Commun.__, vol. 21, no. 1, pp. 25-37, Mar. 2022, doi: 10.12142/ZTECOM.202301004.
-12. J. Ren, Y. He, __D. Wen__, G. Yu, K. Huang, and D. Guo, “Scheduling in Cellular Federated Edge Learning with Importance and Channel Awareness,” __IEEE Trans. Wireless Commun.__, vol. 19, no. 11, pp. 7690-7703, Nov. 2020, doi: 10.1109/TWC.2020.3015671.
+1. M. Guo, D. Liu, O. Simeone, and __D. Wen__, “Efficient Wireless Federated Learning Via Low-Rank Gradient Factorization,” in __IEEE Tran. Veh. Technol.__, doi: 10.1109/TVT.2024.3506950. 
+2. S. Liu, C. Liu, __D. Wen__, and G. Yu,  “Efficient Collaborative Learning Over Unreliable D2D Network: Adaptive Cluster Head Selection and Resource Allocation,” in __IEEE Trans. Commun.__, doi: 10.1109/TCOMM.2024.3435072. (Corresponding Author)
+3. P. Yang, Y. Jiang, __D. Wen__, T. Wang, C. N. Jones, Y. Shi, “Decentralized Over-the-Air Federated Learning by Second-Order Optimization Method,” __IEEE Trans. Wireless Commun.__, vol. 23, no. 6, pp. 5632-5647, June 2024, doi: 10.1109/TWC.2023.3327610. (Co-Corresponding Author)
+4. L. Zeng, __D. Wen__, G. Zhu, C. You, Q. Chen, and Y. Shi, “Federated Learning with Energy Harvesting Devices,” __IEEE Trans. Green Commun. Netw.__, vol.8, no. 1,  pp. 190-204, Mar. 2024, doi: 10.1109/TGCN.2023.3310569. (Corresponding Author)
+5. S. Liu, G. Yu, __D. Wen__, X. Chen, M. Bennis, and H. Chen, “Communication and Energy Efficient Decentralized Learning over D2D Networks,”  __IEEE Trans. Wireless Commun.__, vol. 22, no.12, pp. 9549-9563, Dec. 2023, doi: 10.1109/TWC.2023.3271854. (Corresponding Author)
+6. __D. Wen__, K.-J. Jeon, and K. Huang, “Federated Dropout -- A Simple Approach for Enabling Federated Learning on Resource Constrained Devices,” __IEEE Wireless Commun. Lett.__, vol. 11, no. 5, pp. 923-927, May 2022, doi: 10.1109/LWC.2022.3149783.
+7. __D. Wen__, K.-J. Jeon, M. Bennis, and K. Huang, “Adaptive Subcarrier, Parameter, and Power Allocation for Partitioned Edge Learning over Broadband Channels”, __IEEE Trans. Wireless Commun.__, vol. 20, no. 12, pp. 8348-8361, Dec. 2021, doi: 10.1109/TWC.2021.3092075.
+8. __D. Wen__, M. Bennis, and K. Huang, “Joint Parameter-and-Bandwidth Allocation for Improving the Efficiency of Partitioned Edge Learning,” __IEEE Trans. Wireless Commun.__, vol. 19, no. 12, pp. 8272-8286, Dec. 2020, doi: 10.1109/TWC.2020.3021177.
+9. __D. Wen__, X. Li, Q. Zeng, J. Ren, and K. Huang, “An Overview of Data-Importance Aware Radio Resource Management for Edge Machine Learning,” __J. Commun. Inf. Netw.__, vol. 4, no. 4, pp. 1–14, Dec. 2019, doi: 10.23919/JCIN.2019.9005429.
+10. Y. Chen, S. Liu, and __D. Wen__, “Communication Efficient Decentralized Learning over D2D Network: Adaptive Relay Selection and Resource Allocation,” in __IEEE Wireless Commun. Lett.__, vol. 13, no. 9, pp. 2362-2366, Sept. 2024, doi: 10.1109/LWC.2024.3412674.
+11. Q. Chen, Z. You, __D. Wen__, and Z. Zhang, “Enhanced Hybrid Hierarchical Federated Edge Learning Over Heterogeneous Networks,” __IEEE Trans. Veh. Technol.__, vol. 72, no. 11, pp. 14601-14614, Nov. 2023, doi: 10.1109/TVT.2023.3287355.
+12. Y. Wang, __D. Wen__, Y. Mao, and Y. Shi, “RIS-Assisted Federated Learning in Multi-Cell Wireless Networks,” __ZTE Commun.__, vol. 21, no. 1, pp. 25-37, Mar. 2022, doi: 10.12142/ZTECOM.202301004.
+13. J. Ren, Y. He, __D. Wen__, G. Yu, K. Huang, and D. Guo, “Scheduling in Cellular Federated Edge Learning with Importance and Channel Awareness,” __IEEE Trans. Wireless Commun.__, vol. 19, no. 11, pp. 7690-7703, Nov. 2020, doi: 10.1109/TWC.2020.3015671.
 
 
 
