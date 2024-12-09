@@ -28,7 +28,7 @@ __Topic 1: Integrated Sensing-Communication-Computation (ISCC)__
 
 
 __Topic 2: Task-Oriented and Semantic Communications__
-1. J. Huang L. Lian, D. Wen, Y. Zhou, F. Wang, W. Wang, and Y. Shi, “Dynamic UAV-Assisted Cooperative Edge AI Inference,” to appear in __IEEE Trans. Wireless Commun.__, doi: 10.1109/TWC.2024.3497593. (Co-Corresponding Author)
+1. J. Huang L. Lian, __D. Wen__, Y. Zhou, F. Wang, W. Wang, and Y. Shi, “Dynamic UAV-Assisted Cooperative Edge AI Inference,” to appear in __IEEE Trans. Wireless Commun.__, doi: 10.1109/TWC.2024.3497593. (Co-Corresponding Author)
 2. X. Jiao, __D. Wen__, G. Zhu, W. Jiang, W. Luo, and Y. Shi, “Task-Oriented Over-the-Air Computation for Edge-Device Co-inference with Balanced Classification Accuracy,” __IEEE Trans. Veh. Technol.__,  vol. 73, no. 11, pp. 17818-17823, Nov. 2024, doi: 10.1109/TVT.2024.3422418. (Co-Corresponding Author)
 3. __D. Wen__, X. Jiao, P. Liu, G. Zhu, Y. Shi, and K. Huang, “Task-Oriented Over-the-Air Computation for Multi-Device Edge AI,” __IEEE Trans. Wireless Commun.__, vol. 23, no. 3, pp. 2039-2053, Mar. 2024, doi: 10.1109/TWC.2023.3294703.
 4. P. Zhang, __D. Wen__, G. Zhu, Q. Chen, K. Han, and Y. Shi, “Collaborative Edge AI Inference over Cloud-RAN,” __IEEE Trans. Commun.__, vol. 72, no. 9, pp. 5641-5656, Sept. 2024, doi: 10.1109/TCOMM.2024.3388488. (Corresponding Author)
