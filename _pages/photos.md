@@ -16,6 +16,11 @@ author_profile: true
   <div class="cat">Group Photos</div>
 
   <div class="photo-photo">
+    <img src="/images/Sijing_GC.jpg">
+    <p>[2024-12] Sijing Presents her paper at GlobeCom.</p>
+  </div>
+  
+  <div class="photo-photo">
     <img src="/images/GroupMember2410.jpg">
     <p>[2024-10] Our Group Members</p>
   </div>
