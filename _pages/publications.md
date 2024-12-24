@@ -18,7 +18,7 @@ author_profile: true
 Journal Papers
 ======
 __Topic 1: Integrated Sensing-Communication-Computation (ISCC)__
-1. __D. Wen__, Y. Zhou, X. Li, Y. Shi, K. Huang, and K. B. Letaief, “A Survey on Sensing, Communication, and Computation,” to appear in __IEEE Commun. Surv. Tut.__, 2024.
+1. __D. Wen__, Y. Zhou, X. Li, Y. Shi, K. Huang, and K. B. Letaief, “A Survey on Sensing, Communication, and Computation,” to appear in __IEEE Commun. Surv. Tut.__, 2024, doi: 10.1109/COMST.2024.3521498.
 2. __D. Wen__, P. Liu, G. Zhu, Y. Shi, J. Xu, Y. C. Eldar, and S. Cui, “Task-Oriented Sensing, Computation, and Communication Integration for Multi-Device Edge AI,” __IEEE Trans. Wireless Commun.__, vol. 23, no. 3, pp. 2486-2502, Mar. 2024, doi: 10.1109/TWC.2023.3303232. (__ESI Highly Cited Paper__, Related Code: https://github.com/PeixiLiu/humanMotionRadar)
 3. S. Liu, __D. Wen__, D. Li, Q. Chen, G. Zhu, and Y. Shi, "Energy-Efficient Optimal Mode Selection for Edge AI Inference via Integrated Sensing-Communication-Computation," __IEEE Trans. Mobile Comput.__, vol. 23, no. 12, pp. 14248-14262, Dec. 2024, doi: 10.1109/TMC.2024.3440581. (Corresponding Author)
 4. __D. Wen__, X. Li, Y. Zhou, Y. Shi, S. Wu, C. Jiang, “Integrated Sensing-Communication-Computation for Edge Artificial Intelligence,” __IEEE Internet Things Mag.__, vol. 7, no. 4, pp. 14-20, Jul. 2024, doi: 10.1109/IOTM.001.2300146.
