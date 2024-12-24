@@ -17,7 +17,7 @@ author_profile: true
 
   <div class="photo-photo">
     <img src="/images/Sijing_GC.jpg">
-    <p>[2024-12] Sijing Presents her paper at GlobeCom</p>
+    <p>[2024-12] Sijing presents her paper at GlobeCom</p>
   </div>
   
   <div class="photo-photo">
