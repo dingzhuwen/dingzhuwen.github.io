@@ -28,8 +28,8 @@ __Research Topics__
 
 __Activities__
 * Dr. Wen was awarded __Glory Mentor of ShanghaiTech University__ in December 2024.
-* The paper “A Survey on Integrated Sensing, Communication, and Computation” was accepted by __IEEE Communications Surveys and Tutorials (Impact Factor: 34.4)__ on Dec. 18, 2024.
-* Our paper “Structured IB: Improving Information Bottleneck with Structured Feature Learning” was accepted by __AAAI (CCF-A)__ on Dec. 10, 2024. ([Paper Link][9])
+* The paper “A Survey on Integrated Sensing, Communication, and Computation” was accepted by __IEEE Communications Surveys and Tutorials (Impact Factor: 34.4)__ on Dec. 18, 2024. ([Paper Link][9])
+* Our paper “Structured IB: Improving Information Bottleneck with Structured Feature Learning” was accepted by __AAAI (CCF-A)__ on Dec. 10, 2024. 
 * The paper “Task-Oriented Sensing, Computation, and Communication Integration for Multi-Device Edge AI” was rated as an __ESI Highly Cited Paper__.
 * Dr. Wen will co-organize __IEEE ICC 2025 Workshop on Task-Oriented and Generative Communications for 6G__. ([Workshop Homepage][7])
 * Dr. Wen will co-organize __IEEE WCNC 2025 Workshop on Task-Oriented and Generative Communications for 6G__. ([Workshop Homepage][8])
