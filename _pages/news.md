@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/18ddfd19-18c3-4085-abf1-f7144b9dfb91)![image](https://github.com/user-attachments/assets/f758f2a7-5a66-41e2-8c84-01da5039e5be)---
 layout: archive
 #title: "News"
 permalink: /news/
@@ -10,8 +10,8 @@ __Latest News__
 * Dr. Wen's paper “Task-Oriented Sensing, Computation, and Communication Integration for Multi-Device Edge AI” was rated as an __ESI Highly Cited Paper__.
 * __Call for Submissions__: IEEE ICC 2025 Workshop on Task-Oriented and Generative Communications for 6G
     - Workshop Website: <https://sites.google.com/view/togc-icc25/home>.
-    - Submission Link: TBD.
-    - Submission Deadline: TBD.
+    - Submission Link: <https://edas.info/N33184>.
+    - Submission Deadline: 20 January 2025.
 * __Call for Submissions__: IEEE WCNC 2024 Workshop on Task-Oriented and Generative Communications for 6G
     - Workshop Website: <https://sites.google.com/view/togc-wcnc25/home>.
     - Submission Link: <https://edas.info/newPaper.php?c=32909&track=127539>.
