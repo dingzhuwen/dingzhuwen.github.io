@@ -27,10 +27,11 @@ __Research Topics__
 * Task-Oriented Communications
 
 __Activities__
+* The paper “Task-Oriented Over-the-air Computation for Multi-Device Edge AI” was rated as an __ESI Highly Cited Paper__ in Jan. 2025. ([Paper Link][11])
 * Dr. Wen was awarded __Glory Mentor of ShanghaiTech University__ in December 2024.
 * The paper “A Survey on Integrated Sensing, Communication, and Computation” was accepted by __IEEE Communications Surveys and Tutorials (Impact Factor: 34.4)__ on Dec. 18, 2024. ([Paper Link][9])
 * Our paper “Structured IB: Improving Information Bottleneck with Structured Feature Learning” was accepted by __AAAI (CCF-A)__ on Dec. 10, 2024. 
-* The paper “Task-Oriented Sensing, Computation, and Communication Integration for Multi-Device Edge AI” was rated as an __ESI Highly Cited Paper__.
+* The paper “Task-Oriented Sensing, Computation, and Communication Integration for Multi-Device Edge AI” was rated as an __ESI Highly Cited Paper__ in Nov. 2024. ([Paper Link][10])
 * Dr. Wen will co-organize __IEEE ICC 2025 Workshop on Task-Oriented and Generative Communications for 6G__. ([Workshop Homepage][7])
 * Dr. Wen will co-organize __IEEE WCNC 2025 Workshop on Task-Oriented and Generative Communications for 6G__. ([Workshop Homepage][8])
 * Dr. Wen co-organized __IEEE PIMRC 2024 Workshop on Task-Oriented and Pragmatic Communications for 6G__. ([Workshop Homepage][1])
@@ -62,3 +63,5 @@ __Education Experience__
 [7]: https://sites.google.com/view/togc-icc25/home
 [8]: https://wcnc2025.ieee-wcnc.org/workshop/ws11-task-oriented-and-generative-communications-6g
 [9]: https://ieeexplore.ieee.org/document/10812728
+[10]: https://ieeexplore.ieee.org/document/10217150
+[11]: https://ieeexplore.ieee.org/document/10186369
