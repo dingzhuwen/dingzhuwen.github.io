@@ -42,7 +42,7 @@ __Topic 2: Semantic and Task-Oriented Communications__
 
 __Topic 3: Edge Machine Learning__
 1. M. Guo, D. Liu, O. Simeone, and __D. Wen__, “Efficient Wireless Federated Learning Via Low-Rank Gradient Factorization,” in __IEEE Tran. Veh. Technol.__, doi: 10.1109/TVT.2024.3506950. 
-2. S. Liu, C. Liu, __D. Wen__, and G. Yu,  “Efficient Collaborative Learning Over Unreliable D2D Network: Adaptive Cluster Head Selection and Resource Allocation,” in __IEEE Trans. Commun.__, doi: 10.1109/TCOMM.2024.3435072. (Corresponding Author)
+2. S. Liu, C. Liu, __D. Wen__, and G. Yu,  “Efficient Collaborative Learning Over Unreliable D2D Network: Adaptive Cluster Head Selection and Resource Allocation,” __IEEE Trans. Commun.__, vol. 73, no. 1, pp. 425-438, Jan. 2025, doi: 10.1109/TCOMM.2024.3435072. (Corresponding Author)
 3. P. Yang, Y. Jiang, __D. Wen__, T. Wang, C. N. Jones, Y. Shi, “Decentralized Over-the-Air Federated Learning by Second-Order Optimization Method,” __IEEE Trans. Wireless Commun.__, vol. 23, no. 6, pp. 5632-5647, June 2024, doi: 10.1109/TWC.2023.3327610. (Co-Corresponding Author)
 4. L. Zeng, __D. Wen__, G. Zhu, C. You, Q. Chen, and Y. Shi, “Federated Learning with Energy Harvesting Devices,” __IEEE Trans. Green Commun. Netw.__, vol.8, no. 1,  pp. 190-204, Mar. 2024, doi: 10.1109/TGCN.2023.3310569. (Corresponding Author)
 5. S. Liu, G. Yu, __D. Wen__, X. Chen, M. Bennis, and H. Chen, “Communication and Energy Efficient Decentralized Learning over D2D Networks,”  __IEEE Trans. Wireless Commun.__, vol. 22, no.12, pp. 9549-9563, Dec. 2023, doi: 10.1109/TWC.2023.3271854. (Corresponding Author)
