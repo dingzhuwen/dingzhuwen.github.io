@@ -16,6 +16,11 @@ author_profile: true
   <div class="cat">Group Photos</div>
 
   <div class="photo-photo">
+    <img src="/images/Wen_WAA.jpg">
+    <p>Dr. Wen delivers a talk at 2024 WLAN Industry Summit</p>
+  </div>
+
+  <div class="photo-photo">
     <img src="/images/Sijing_GC.jpg">
     <p>[2024-12] Sijing presents her paper at GlobeCom</p>
   </div>
