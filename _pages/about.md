@@ -27,6 +27,7 @@ __Research Topics__
 * Task-Oriented Communications
 
 __Activities__
+* The paper “Task-Oriented Sensing, Computation, and Communication Integration for Multi-Device Edge AI” was rated as a __Hot Paper__ (top 0.1% of papers in the field) by Clarivate.
 * The paper “Task-Oriented Over-the-Air Computation for Multi-Device Edge AI” was rated as an __ESI Highly Cited Paper__ in Jan. 2025. ([Paper Link][11])
 * Dr. Wen was awarded __Glory Mentor of ShanghaiTech University__ in December 2024.
 * The paper “A Survey on Integrated Sensing, Communication, and Computation” was accepted by __IEEE Communications Surveys and Tutorials (Impact Factor: 34.4)__ on Dec. 18, 2024. ([Paper Link][9])
