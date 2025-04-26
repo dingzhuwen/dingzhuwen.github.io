@@ -20,6 +20,11 @@ author_profile: true
     <img src="/images/MingjieShao.jpg">
     <p>[2025-04] Dr. Mingjie Shao visits ShanghaiTech</p>
   </div>
+
+  <div class="photo-photo">
+    <img src="/images/MingjieShao.jpg">
+    <p>[2025-03] Yanbo attends WCNC 2025</p>
+  </div>
   
   <div class="photo-photo">
     <img src="/images/Wen_WAA.jpg">
