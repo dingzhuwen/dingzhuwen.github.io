@@ -27,7 +27,7 @@ author_profile: true
   </div>
 
   <div class="photo-photo">
-    <img src="/images/yanboWCNC2025.jpg">
+    <img src="/images/qiaoshengWCNC2025.jpg">
     <p>[2025-03] Qiaosheng presents at WCNC 2025</p>
   </div>
   
