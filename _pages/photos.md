@@ -18,12 +18,12 @@ author_profile: true
   
   <div class="photo-photo">
     <img src="/images/MingjieShao.jpg">
-    <p>Dr. Mingjie Shao visits ShanghaiTech</p>
+    <p>[2025-04] Dr. Mingjie Shao visits ShanghaiTech</p>
   </div>
   
   <div class="photo-photo">
     <img src="/images/Wen_WAA.jpg">
-    <p>Dr. Wen delivers a talk at 2024 WLAN Industry Summit</p>
+    <p>[2024-12] Dr. Wen delivers a talk at 2024 WLAN Industry Summit</p>
   </div>
 
   <div class="photo-photo">
