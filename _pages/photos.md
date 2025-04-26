@@ -22,7 +22,7 @@ author_profile: true
   </div>
 
   <div class="photo-photo">
-    <img src="/images/MingjieShao.jpg">
+    <img src="/images/yanboWCNC2025.jpg">
     <p>[2025-03] Yanbo attends WCNC 2025</p>
   </div>
   
