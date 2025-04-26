@@ -25,6 +25,11 @@ author_profile: true
     <img src="/images/yanboWCNC2025.jpg">
     <p>[2025-03] Yanbo attends WCNC 2025</p>
   </div>
+
+  <div class="photo-photo">
+    <img src="/images/yanboWCNC2025.jpg">
+    <p>[2025-03] Qiaosheng presents at WCNC 2025</p>
+  </div>
   
   <div class="photo-photo">
     <img src="/images/Wen_WAA.jpg">
@@ -33,7 +38,7 @@ author_profile: true
 
   <div class="photo-photo">
     <img src="/images/Sijing_GC.jpg">
-    <p>[2024-12] Sijing presents her paper at GlobeCom</p>
+    <p>[2024-12] Sijing presents at GlobeCom 2024</p>
   </div>
   
   <div class="photo-photo">
