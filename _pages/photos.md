@@ -22,7 +22,27 @@ author_profile: true
 
   <div class="photo-photo">
     <img src="/images/Mingzhao_and_Shu_Graduation-1.jpg">
-    <p>[2025-07]Congratulations to Mingzhao and Shu</p>
+    <p>[2025-06]Congratulations to Mingzhao and Shu</p>
+  </div>
+
+  <div class="photo-photo">
+    <img src="/images/Wen_ZJU.jpg">
+    <p>[2025-05]Dr. Wen visits Prof. Guanding Yu at ZJU</p>
+  </div>
+
+  <div class="photo-photo">
+    <img src="/images/Wen_SUSTech.jpg">
+    <p>[2025-05]Dr. Wen delivers a talk at SUSTech</p>
+  </div>
+
+  <div class="photo-photo">
+    <img src="/images/Wen_CUHK.jpg">
+    <p>[2025-05]Dr. Wen delivers a talk at CUHK</p>
+  </div>
+
+  <div class="photo-photo">
+    <img src="/images/Wen_SZU.jpg">
+    <p>[2025-05]Dr. Wen delivers a talk at SZU</p>
   </div>
 
   <div class="photo-photo">
