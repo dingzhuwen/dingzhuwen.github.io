@@ -16,6 +16,21 @@ author_profile: true
   <div class="cat">Group Photos</div>
 
   <div class="photo-photo">
+    <img src="/images/SIST-1合照4.jpg">
+    <p>[2025-07]Our Group Member</p>
+  </div>
+
+  <div class="photo-photo">
+    <img src="/images/Mingzhao_and_Shu_Graduation.jpg">
+    <p>[2025-07]Congratulations to Mingzhao and Shu</p>
+  </div>
+
+  <div class="photo-photo">
+    <img src="/images/GroupCycling.jpeg">
+    <p>[2025-04]Group Cycling</p>
+  </div>
+
+  <div class="photo-photo">
     <img src="/images/GroupDinner.jpeg">
     <p>[2025-04]Group Dinner</p>
   </div>
