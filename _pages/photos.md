@@ -21,7 +21,7 @@ author_profile: true
   </div>
 
   <div class="photo-photo">
-    <img src="/images/Mingzhao_and_Shu_Graduation.jpg">
+    <img src="/images/Mingzhao_and_Shu_Graduation-1.jpg">
     <p>[2025-07]Congratulations to Mingzhao and Shu</p>
   </div>
 
