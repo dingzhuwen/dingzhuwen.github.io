@@ -15,6 +15,10 @@ author_profile: true
 
   <div class="cat">Group Photos</div>
 
+  <div class="photo-photo">
+    <img src="/images/GroupDinner.jpeg">
+    <p>[2025-04]Group Dinner</p>
+  </div>
   
   <div class="photo-photo">
     <img src="/images/MingjieShao.jpg">
