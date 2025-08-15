@@ -21,12 +21,12 @@ author_profile: true
   </div>
 
   <div class="photo-photo">
-    <img src="/images/Wen_ICCC.jpg">
+    <img src="/images/Wen_ICCC1.jpg">
     <p>[2025-08]Dr. Dingzhu Wen delivers a Tutorial at ICC</p>
   </div>
   
   <div class="photo-photo">
-    <img src="/images/Zhang_Cao_ShanghaiTech.jpg">
+    <img src="/images/Zhang_Cao_ShanghaiTech1.jpg">
     <p>[2025-08]Dr. Zezhong Zhang and Dr. Xiaowen Cao visit ShanghaiTech</p>
   </div>
 
