@@ -17,7 +17,7 @@ author_profile: true
 
   <div class="photo-photo">
     <img src="/images/Huang_ShanghaiTech.jpg">
-    <p>[2025-08]Prof. Kaibin Huang visits ShanghaiTech</p>
+    <p>[2025-08]Prof. Kaibin Huang visits ShanghaiTech and delivers an SIST distinguished lecture</p>
   </div>
 
   <div class="photo-photo">
