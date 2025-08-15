@@ -16,6 +16,16 @@ author_profile: true
   <div class="cat">Group Photos</div>
 
   <div class="photo-photo">
+    <img src="/images/Huang_ShanghaiTech.jpg">
+    <p>[2025-08]Dr. Dingzhu Wen delievers a Tutorlal at ICCC</p>
+  </div>
+
+  <div class="photo-photo">
+    <img src="/images/Wem_ICCC.jpg">
+    <p>[2025-08]Dr. Zezhong Zhang and Dr. Xiaowen Cao visit ShanghaiTech</p>
+  </div>
+  
+  <div class="photo-photo">
     <img src="/images/Zhang_Cao_ShanghaiTech.jpg">
     <p>[2025-08]Dr. Zezhong Zhang and Dr. Xiaowen Cao visit ShanghaiTech</p>
   </div>
