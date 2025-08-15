@@ -21,6 +21,16 @@ author_profile: true
   </div>
 
   <div class="photo-photo">
+    <img src="/images/Wen_ICCC2.jpg">
+    <p>[2025-08]Dr. Dingzhu Wen organizes a Tutorial at ICCC 2025</p>
+  </div>
+
+  <div class="photo-photo">
+    <img src="/images/Zhang_Cao_ShanghaiTech2.jpg">
+    <p>[2025-08]Dr. Zezhong Zhang and Dr. Xiaowen Cao visit ShanghaiTech</p>
+  </div>
+
+  <div class="photo-photo">
     <img src="/images/SIST-1合照4.jpg">
     <p>[2025-07]Our Group Member</p>
   </div>
