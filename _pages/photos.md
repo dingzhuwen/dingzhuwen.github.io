@@ -17,12 +17,12 @@ author_profile: true
 
   <div class="photo-photo">
     <img src="/images/Huang_ShanghaiTech.jpg">
-    <p>[2025-08]Prof. Huang visits ShanghaiTech</p>
+    <p>[2025-08]Prof. Kaibin Huang visits ShanghaiTech</p>
   </div>
 
   <div class="photo-photo">
     <img src="/images/Wen_ICCC.jpg">
-    <p>[2025-08]Dr. Dingzhu Wen delievers a Tutorial at ICC</p>
+    <p>[2025-08]Dr. Dingzhu Wen delivers a Tutorial at ICC</p>
   </div>
   
   <div class="photo-photo">
