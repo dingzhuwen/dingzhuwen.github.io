@@ -16,6 +16,11 @@ author_profile: true
   <div class="cat">Group Photos</div>
 
   <div class="photo-photo">
+    <img src="/images/Zhang_Cao_ShanghaiTech.jpg">
+    <p>[2025-08]Dr. Zezhong Zhang and Dr. Xiaowen Cao visit ShanghaiTech</p>
+  </div>
+
+  <div class="photo-photo">
     <img src="/images/SIST-1合照4.jpg">
     <p>[2025-07]Our Group Member</p>
   </div>
