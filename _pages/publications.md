@@ -18,7 +18,7 @@ author_profile: true
 Journal Papers
 ======
 __Topic 1: Integrated Sensing-Communication-Computation (ISCC)__
-1. __D. Wen__., S. Xie, X. Cao, Y. Cui, J. Xu, Y. Shi, and S. Cui “Integrated Sensing, Communication, and Computation for Over-the-Air Federated Edge Learning,” to appear in __IEEE Trans. Wireless Commun.__, 2025, doi: 10.1109/TWC.2025.3598997.
+1. __D. Wen__., S. Xie, X. Cao, Y. Cui, J. Xu, Y. Shi, and S. Cui “Integrated Sensing, Communication, and Computation for Over-the-Air Federated Edge Learning,” to appear in __IEEE Trans. Wireless Commun.__, 2025, doi: 10.1109/TWC.2025.3598997. (Related Code: https://github.com/Sijing129/ISCC-FL/tree/main)
 2. __D. Wen__, Y. Zhou, X. Li, Y. Shi, K. Huang, and K. B. Letaief, “A Survey on Sensing, Communication, and Computation,” to appear in __IEEE Commun. Surv. Tut.__, 2024, doi: 10.1109/COMST.2024.3521498.
 3. __D. Wen__, P. Liu, G. Zhu, Y. Shi, J. Xu, Y. C. Eldar, and S. Cui, “Task-Oriented Sensing, Computation, and Communication Integration for Multi-Device Edge AI,” __IEEE Trans. Wireless Commun.__, vol. 23, no. 3, pp. 2486-2502, Mar. 2024, doi: 10.1109/TWC.2023.3303232. (__ESI Highly Cited Paper__, Related Code: https://github.com/PeixiLiu/humanMotionRadar)
 4. X. Jiao, G. Zhu, W. Jiang, L. Chen, W. Luo, and __D. Wen__, “Sensing-Communication-Computation Integration for Federated Edge Learning with Controllable Model Dropout,” __IEEE Internet Things J.__,  vol. 12, no. 12, pp. 19767-19781, Jun. 2025, doi: 10.1109/JIOT.2025.3541535. (Co-Corresponding Author)
@@ -43,7 +43,7 @@ __Topic 2: Semantic and Task-Oriented Communications__
 
 
 __Topic 3: Edge Machine Learning__
-1. To appear.
+1. S Xie, __D Wen__, X Liu, C You, T Ratnarajah, and K. Huang, “Federated Dropout: Convergence Analysis and Resource Allocation,” submitted to IEEE for possible publication. 
 2. Z. Jiang, __D. Wen__, S. Liu, G. Zhu, and G. Yu, “Partitioned Edge Learning Over Fast Fading Channels,” __IEEE Trans. Veh. Technol.__, vol. 74, no. 6, pp. 8561-8576, Jun. 2025, doi: 10.1109/TVT.2025.3540281. (Corresponding Author) 
 3. M. Guo, D. Liu, O. Simeone, and __D. Wen__, “Efficient Wireless Federated Learning Via Low-Rank Gradient Factorization,” __IEEE Trans. Veh. Technol.__, vol. 74, no. 4, pp. 6811-6816, Apr. 2025, doi: 10.1109/TVT.2024.3506950. 
 4. S. Liu, C. Liu, __D. Wen__, and G. Yu,  “Efficient Collaborative Learning Over Unreliable D2D Network: Adaptive Cluster Head Selection and Resource Allocation,” __IEEE Trans. Commun.__, vol. 73, no. 1, pp. 425-438, Jan. 2025, doi: 10.1109/TCOMM.2024.3435072. (Corresponding Author)
