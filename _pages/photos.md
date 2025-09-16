@@ -16,6 +16,16 @@ author_profile: true
   <div class="cat">Group Photos</div>
 
   <div class="photo-photo">
+    <img src="/images/TeacherDay.jpg">
+    <p>[2025-09]Teacher's Day 2025!</p>
+  </div>
+
+  <div class="photo-photo">
+    <img src="/images/sijing_oral.jpg">
+    <p>[2025-09]Sijing attends IEEE PIMRC 2025</p>
+  </div>
+  
+  <div class="photo-photo">
     <img src="/images/Huang_ShanghaiTech.jpg">
     <p>[2025-08]Prof. Kaibin Huang visits ShanghaiTech and delivers an SIST distinguished lecture</p>
   </div>
