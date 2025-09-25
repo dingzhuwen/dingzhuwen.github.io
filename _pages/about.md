@@ -27,6 +27,7 @@ __Research Topics__
 * Task-Oriented Communications
 
 __Activities__
+* Dr. Wen was ranked __World's Top 2% Scientists__ by Stanford in Sep. 2025.
 * Congratulations to Mr. Mingzhao Guo (will pursue a Ph.D degree at Glasgow University) and Mr. Shu Liu (will be a civil servant at Fuzhou Customs) for obtaining master's degrees. 
 * The paper “Task-Oriented Sensing, Computation, and Communication Integration for Multi-Device Edge AI” was rated as a __Hot Paper__ (top 0.1% of papers in the field) by Clarivate. ([Paper Link][10])
 * The paper “Task-Oriented Over-the-Air Computation for Multi-Device Edge AI” was rated as an __ESI Highly Cited Paper__ in Jan. 2025. ([Paper Link][11])
