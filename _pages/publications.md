@@ -30,7 +30,7 @@ __Topic 1: Integrated Sensing-Communication-Computation (ISCC)__
 
 
 __Topic 2: Semantic and Task-Oriented Communications__
-1. H. Yang, __D. Wen__, L. You, J. Wang, S. Wu, and Y. Shi, “MIMO Over-the-Air Computation for Device-Edge Collaborative Inference,” to appear in __IEEE Trans. Wireless Commun.__, 2025, doi: 10.1109/TWC.2025.3603537.
+1. H. Yang, __D. Wen__, L. You, J. Wang, S. Wu, and Y. Shi, “MIMO Over-the-Air Computation for Device-Edge Collaborative Inference,” to appear in __IEEE Trans. Wireless Commun.__, 2025, doi: 10.1109/TWC.2025.3603537. (Corresponding Author)
 2. H. Yang, Y. Wu, __D. Wen__, Y. Zhou, and Y. Shi, “Structured IB: Improving Information Bottleneck with Structured Feature Learning,” in __Proc. AAAI Conf. Artif. Intell__, vol. 39, n0. 20, pp. 21922-21928, 2025.
 3. P. Yang,  __D. Wen__, Q. Zeng, Y. Zhou, T. Wang, H. Cai, and Y. Shi, “Over-the-Air Computation Empowered Vertically Split Inference,” __IEEE Trans. Wireless Commun.__, vol. 23, no. 12, pp. 19634-19648, Dec. 2024, doi: 10.1109/TWC.2024.3485678. (Co-Corresponding Author)
 4. J. Huang, L. Lian, __D. Wen__, Y. Zhou, F. Wang, W. Wang, and Y. Shi, “Dynamic UAV-Assisted Cooperative Edge AI Inference,” __IEEE Trans. Wireless Commun.__, vol. 24, no. 1, pp. 615-628, Jan. 2025, doi: 10.1109/TWC.2024.3497593. (Co-Corresponding Author)
