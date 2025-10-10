@@ -30,20 +30,21 @@ __Topic 1: Integrated Sensing-Communication-Computation (ISCC)__
 
 
 __Topic 2: Semantic and Task-Oriented Communications__
-1. H. Yang, Y. Wu, __D. Wen__, Y. Zhou, and Y. Shi, “Structured IB: Improving Information Bottleneck with Structured Feature Learning,” in __Proc. AAAI Conf. Artif. Intell__, vol. 39, n0. 20, pp. 21922-21928, 2025.
-2. P. Yang,  __D. Wen__, Q. Zeng, Y. Zhou, T. Wang, H. Cai, and Y. Shi, “Over-the-Air Computation Empowered Vertically Split Inference,” __IEEE Trans. Wireless Commun.__, vol. 23, no. 12, pp. 19634-19648, Dec. 2024, doi: 10.1109/TWC.2024.3485678. (Co-Corresponding Author)
-3. J. Huang, L. Lian, __D. Wen__, Y. Zhou, F. Wang, W. Wang, and Y. Shi, “Dynamic UAV-Assisted Cooperative Edge AI Inference,” __IEEE Trans. Wireless Commun.__, vol. 24, no. 1, pp. 615-628, Jan. 2025, doi: 10.1109/TWC.2024.3497593. (Co-Corresponding Author)
-4. X. Jiao, __D. Wen__, G. Zhu, W. Jiang, W. Luo, and Y. Shi, “Task-Oriented Over-the-Air Computation for Edge-Device Co-inference with Balanced Classification Accuracy,” __IEEE Trans. Veh. Technol.__,  vol. 73, no. 11, pp. 17818-17823, Nov. 2024, doi: 10.1109/TVT.2024.3422418. (Co-Corresponding Author)
-5. __D. Wen__, X. Jiao, P. Liu, G. Zhu, Y. Shi, and K. Huang, “Task-Oriented Over-the-Air Computation for Multi-Device Edge AI,” __IEEE Trans. Wireless Commun.__, vol. 23, no. 3, pp. 2039-2053, Mar. 2024, doi: 10.1109/TWC.2023.3294703. (__ESI Highly Cited Paper__)
-6. P. Zhang, __D. Wen__, G. Zhu, Q. Chen, K. Han, and Y. Shi, “Collaborative Edge AI Inference over Cloud-RAN,” __IEEE Trans. Commun.__, vol. 72, no. 9, pp. 5641-5656, Sept. 2024, doi: 10.1109/TCOMM.2024.3388488. (Corresponding Author)
-7. Z. Hu, C. You, T. Liu, __D. Wen__, Y. Hu, Y. Cui, Y. Gong, and K. Huang, “Semantic Communication Meets Edge Intelligence: Semantic-Relay-Aided Text Transmissions,” __IEEE Internet Things J.__, vol. 11, no. 24, pp. 39409-39423, Dec., 2024, doi: 10.1109/JIOT.2024.3433431.
-8. Y. Shi, Y. Zhou, __D. Wen__, Y. Wu, C. Jiang, and K. B. Letaief, “Task-Oriented Communications for 6G: Vision, Principles, and Technologies,” __IEEE Wireless Commun.__, vol. 30, no. 3, pp. 78-85, Jun. 2023, doi: 10.1109/MWC.002.2200468.
-9. Q. Lan, __D. Wen__, Z. Zhang, Q. Zeng, X. Chen, P. Popovski, and K. Huang, “What is Semantic Communication? A View on Conveying Meaning in the Era of Machine Intelligence,” __J. Commun. Inf. Netw.__, vol. 6, no. 4, pp. 336 – 371, Dec. 2021, doi: 10.23919/JCIN.2021.9663101.
+1. H. Yang, __D. Wen__, L. You, J. Wang, S. Wu, and Y. Shi, “MIMO Over-the-Air Computation for Device-Edge Collaborative Inference,” to appear in __IEEE Trans. Wireless Commun.__, 2025, doi: 10.1109/TWC.2025.3603537.
+2. H. Yang, Y. Wu, __D. Wen__, Y. Zhou, and Y. Shi, “Structured IB: Improving Information Bottleneck with Structured Feature Learning,” in __Proc. AAAI Conf. Artif. Intell__, vol. 39, n0. 20, pp. 21922-21928, 2025.
+3. P. Yang,  __D. Wen__, Q. Zeng, Y. Zhou, T. Wang, H. Cai, and Y. Shi, “Over-the-Air Computation Empowered Vertically Split Inference,” __IEEE Trans. Wireless Commun.__, vol. 23, no. 12, pp. 19634-19648, Dec. 2024, doi: 10.1109/TWC.2024.3485678. (Co-Corresponding Author)
+4. J. Huang, L. Lian, __D. Wen__, Y. Zhou, F. Wang, W. Wang, and Y. Shi, “Dynamic UAV-Assisted Cooperative Edge AI Inference,” __IEEE Trans. Wireless Commun.__, vol. 24, no. 1, pp. 615-628, Jan. 2025, doi: 10.1109/TWC.2024.3497593. (Co-Corresponding Author)
+5. X. Jiao, __D. Wen__, G. Zhu, W. Jiang, W. Luo, and Y. Shi, “Task-Oriented Over-the-Air Computation for Edge-Device Co-inference with Balanced Classification Accuracy,” __IEEE Trans. Veh. Technol.__,  vol. 73, no. 11, pp. 17818-17823, Nov. 2024, doi: 10.1109/TVT.2024.3422418. (Co-Corresponding Author)
+6. __D. Wen__, X. Jiao, P. Liu, G. Zhu, Y. Shi, and K. Huang, “Task-Oriented Over-the-Air Computation for Multi-Device Edge AI,” __IEEE Trans. Wireless Commun.__, vol. 23, no. 3, pp. 2039-2053, Mar. 2024, doi: 10.1109/TWC.2023.3294703. (__ESI Highly Cited Paper__)
+7. P. Zhang, __D. Wen__, G. Zhu, Q. Chen, K. Han, and Y. Shi, “Collaborative Edge AI Inference over Cloud-RAN,” __IEEE Trans. Commun.__, vol. 72, no. 9, pp. 5641-5656, Sept. 2024, doi: 10.1109/TCOMM.2024.3388488. (Corresponding Author)
+8. Z. Hu, C. You, T. Liu, __D. Wen__, Y. Hu, Y. Cui, Y. Gong, and K. Huang, “Semantic Communication Meets Edge Intelligence: Semantic-Relay-Aided Text Transmissions,” __IEEE Internet Things J.__, vol. 11, no. 24, pp. 39409-39423, Dec., 2024, doi: 10.1109/JIOT.2024.3433431.
+9. Y. Shi, Y. Zhou, __D. Wen__, Y. Wu, C. Jiang, and K. B. Letaief, “Task-Oriented Communications for 6G: Vision, Principles, and Technologies,” __IEEE Wireless Commun.__, vol. 30, no. 3, pp. 78-85, Jun. 2023, doi: 10.1109/MWC.002.2200468.
+10. Q. Lan, __D. Wen__, Z. Zhang, Q. Zeng, X. Chen, P. Popovski, and K. Huang, “What is Semantic Communication? A View on Conveying Meaning in the Era of Machine Intelligence,” __J. Commun. Inf. Netw.__, vol. 6, no. 4, pp. 336 – 371, Dec. 2021, doi: 10.23919/JCIN.2021.9663101.
 
 
 
 __Topic 3: Edge Machine Learning__
-1. S Xie, __D Wen__, X Liu, C You, T Ratnarajah, and K. Huang, “Federated Dropout: Convergence Analysis and Resource Allocation,” submitted to IEEE for possible publication. 
+1. S Xie, __D Wen__, X Liu, C You, T. Ratnarajah, and K. Huang, “Federated Dropout: Convergence Analysis and Resource Allocation,” submitted to IEEE for possible publication. 
 2. Z. Jiang, __D. Wen__, S. Liu, G. Zhu, and G. Yu, “Partitioned Edge Learning Over Fast Fading Channels,” __IEEE Trans. Veh. Technol.__, vol. 74, no. 6, pp. 8561-8576, Jun. 2025, doi: 10.1109/TVT.2025.3540281. (Corresponding Author) 
 3. M. Guo, D. Liu, O. Simeone, and __D. Wen__, “Efficient Wireless Federated Learning Via Low-Rank Gradient Factorization,” __IEEE Trans. Veh. Technol.__, vol. 74, no. 4, pp. 6811-6816, Apr. 2025, doi: 10.1109/TVT.2024.3506950. 
 4. S. Liu, C. Liu, __D. Wen__, and G. Yu,  “Efficient Collaborative Learning Over Unreliable D2D Network: Adaptive Cluster Head Selection and Resource Allocation,” __IEEE Trans. Commun.__, vol. 73, no. 1, pp. 425-438, Jan. 2025, doi: 10.1109/TCOMM.2024.3435072. (Corresponding Author)
@@ -75,9 +76,9 @@ __Other Topics__
 
 Conference Papers
 ======
-1. Y. Yin, S. Liu, __D. Wen__, Y. Wu and Y. Shi, “Joint Source and Channel Coding for Multi-Modal Satellite-to-Ground Semantic Communications,” 2025 IEEE Wireless Communications and Networking Conference (WCNC), Milan, Italy, 2025, pp. 01-06
-2. Q. Hu, N. Zhang, and __D. Wen__, “Integrated Sensing-Communication-Computation Based Online Federated Learning with Limited Cache,” 2025 IEEE Wireless Communications and Networking Conference (WCNC), Milan, Italy, 2025, pp. 1-6.
-3. 
+1. Z. Yang, P. Zhang, J. Zhu, __D. Wen__, Y. Shi, and W. Chen, “Hierarchical Federated Learning with Integrated Sensing-Communication-Computation Over Space-Air-Ground Integrated Networks,” IEEE International Conference on Communications, Montreal, QC, Canada, 2025, pp. 1163-1168.
+2. Q. Hu, N. Zhang, and __D. Wen__, “Integrated Sensing-Communication-Computation Based Online Federated Learning with Limited Cache,” IEEE Wireless Communications and Networking Conference (WCNC), Milan, Italy, 2025, pp. 1-6.
+3. Y. Yin, S. Liu, __D. Wen__, Y. Wu and Y. Shi, “Joint Source and Channel Coding for Multi-Modal Satellite-to-Ground Semantic Communications,” IEEE Wireless Communications and Networking Conference (WCNC), Milan, Italy, 2025, pp. 01-06.
 4. S. Xie, __D. Wen__, X. Liu, C. You, T. Ratnarajah and K. Huang, “Convergence Analysis for Federated Dropout,” 2024 IEEE Global Commun. Conf. (GlobeCom), Cape Town, South Africa, 2024, pp. 5313-5318.
 5. J. You, Y. Wu, __D. Wen__, Y. Zhou, Y. Jiang, and Y. Shi, “Dynamic Communication in Multi-Agent Reinforcement Learning via Information Bottleneck,” 2024 IEEE Global Commun. Conf. (GlobeCom), Cape Town, South Africa, 2024, pp. 4884-4889.
 6. Y. Zhu, P. Yang, J. Zhu, __D. Wen__, T. Wang, and Y. Zhou, “Satellite Federated Fine-Tuning for Foundation Models: Architecture Design and System Optimization,” 2024 IEEE Global Commun. Conf. (GlobeCom), Cape Town, South Africa, 2024, pp. 5030-5035.
