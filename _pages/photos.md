@@ -16,7 +16,7 @@ author_profile: true
   <div class="cat">Group Photos</div>
 
   <div class="photo-photo">
-    <img src="ShuangWangTalk1024.jpg">
+    <img src="/images/ShuangWangTalk1024.jpg">
     <p>[2025-10]Dr. Shuang Wang visits ShanghaiTech</p>
   </div>
   
