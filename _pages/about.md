@@ -27,6 +27,9 @@ __Research Topics__
 * Task-Oriented Communications
 
 __Activities__
+* The paper “A Survey on Integrated Sensing, Communication, and Computation” was rated as an __ESI Hot Paper__ (top 0.1% of papers in the field) by Clarivate. ([Paper Link][13])
+* Dr. Wen was awarded 2025 __Excellent Mentor of ShanghaiTech University__ on 2025/12/29.
+* Dr. Wen will co-organize __IEEE ICC 2025 Workshop on Task-Oriented and Generative Communications for 6G__. ([Workshop Homepage][12])
 * Dr. Wen was ranked __World's Top 2% Scientists__ by Stanford in Sep. 2025.
 * Congratulations to Mr. Mingzhao Guo (will pursue a Ph.D degree at Glasgow University) and Mr. Shu Liu (will be a civil servant at Fuzhou Customs) for obtaining master's degrees. 
 * The paper “Task-Oriented Sensing, Computation, and Communication Integration for Multi-Device Edge AI” was rated as a __Hot Paper__ (top 0.1% of papers in the field) by Clarivate. ([Paper Link][10])
@@ -41,7 +44,7 @@ __Activities__
 * Dr. Wen co-organized __ASSIST 2024 Session 6: Intelligent Communication, Sensing, and Decision-Making__. ([Website][6])
 * Dr. Wen co-organized __IEEE ICC 2024 Workshop on Task-Oriented and Generative Communications for 6G__. ([Workshop Homepage][2])
 * The paper titled with "Hierarchical Federated Learning over Space-Air-Ground Integrated Networks" was awarded __IEEE GlobeCom Workshop Best Paper__. 
-* Dr. Wen was awarded __Excellent Mentor of ShanghaiTech University__ on 2023/11/8.
+* Dr. Wen was awarded 2023 __Excellent Mentor of ShanghaiTech University__ on 2023/11/8.
 * Dr. Wen co-organized __IEEE VTC 2023-Fall Workshop on Task-Oriented Communications and Networking for 6G__. ([Workshop Homepage][3])
 * Dr. Wen co-organized __IEEE PIMRC 2023 Workshop on Edge Learning for 5G Mobile Networks and Beyond__. ([Workshop Homepage][4])
 * Dr. Wen was awarded __Shanghai Overseas High-Level Young Talent Program 上海海外高层次人才计划（青年）__ in 2023.
@@ -68,3 +71,5 @@ __Education Experience__
 [9]: https://ieeexplore.ieee.org/document/10812728
 [10]: https://ieeexplore.ieee.org/document/10217150
 [11]: https://ieeexplore.ieee.org/document/10186369
+[12]: https://icc2026.ieee-icc.org/workshop/ws15-task-oriented-and-generative-communications-6g
+[13]: https://ieeexplore.ieee.org/abstract/document/10812728/
