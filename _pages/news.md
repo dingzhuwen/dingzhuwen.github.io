@@ -6,16 +6,17 @@ author_profile: true
 ---
 
 __Latest News__
-* Welcome to attend the IEEE PIMRC 2025 Tutorial on “Integrated Sensing, Intelligent Metasurfaces, and Advanced Beam Manipulation Techniques for 6G and Beyond”.
-* Dr. Wen's paper “Task-Oriented Over-the-Air Computation for Multi-Device Edge AI” was rated as an __ESI Highly Cited Paper__.
-* Dr. Wen's paper “Task-Oriented Sensing, Computation, and Communication Integration for Multi-Device Edge AI” was rated as an __ESI Highly Cited Paper__.
-
-
-__Expired News__
+*  Welcome to attend the IEEE WCNC 2026 Tutorial on “Enabling Multi-Layered 6G Networks: Integrated Positioning, Sensing, Communications, and Computation".
 * __Call for Submissions__: IEEE ICC 2026 Workshop on Task-Oriented and Generative Communications for 6G
     - Workshop Website: <https://icc2026.ieee-icc.org/workshop/ws15-task-oriented-and-generative-communications-6g>.
     - Submission Link: <https://edas.info/newPaper.php?c=34792>.
     - Submission Deadline: 18 January 2026.
+*  Dr. Wen's paper “A Survey on Integrated Sensing, Communication, and Computation” was rated as an __ESI Hot Paper__.
+
+__Expired News__
+* Welcome to attend the IEEE PIMRC 2025 Tutorial on “Integrated Sensing, Intelligent Metasurfaces, and Advanced Beam Manipulation Techniques for 6G and Beyond”.
+* Dr. Wen's paper “Task-Oriented Over-the-Air Computation for Multi-Device Edge AI” was rated as an __ESI Highly Cited Paper__.
+* Dr. Wen's paper “Task-Oriented Sensing, Computation, and Communication Integration for Multi-Device Edge AI” was rated as an __ESI Highly Cited Paper__.
 * __Call for Submissions__: IEEE GlobeCom 2025 Workshop on Task-Oriented and Generative Communications for 6G
     - Workshop Website: <https://globecom2025.ieee-globecom.org/workshop/ws-15-task-oriented-and-generative-communications-6g>.
     - Submission Link: <https://gcwkshps2025-togc6g.edas.info/>.
