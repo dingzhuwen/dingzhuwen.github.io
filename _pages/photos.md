@@ -16,8 +16,13 @@ author_profile: true
   <div class="cat">Group Photos</div>
 
   <div class="photo-photo">
+    <img src="/images/xiaoyang_visiting_202511.jpg">
+    <p>[2025-11]Dr. Xiaoyang Li visits ShanghaiTech</p>
+  </div>
+  
+  <div class="photo-photo">
     <img src="/images/ShuangWangTalk1024.jpg">
-    <p>[2025-10]Dr. Shuang Wang visits ShanghaiTech</p>
+    <p>[2025-10]Dr. Shuai Wang visits ShanghaiTech</p>
   </div>
   
   <div class="photo-photo">
