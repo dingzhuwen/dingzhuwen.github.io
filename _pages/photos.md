@@ -16,7 +16,7 @@ author_profile: true
   <div class="cat">Group Photos</div>
 
   <div class="photo-photo">
-    <img src="/images/xiaoyang_visiting_202511.jpg">
+    <img src="/images/xiaoyang_visiting_202511.JPG">
     <p>[2025-11]Dr. Xiaoyang Li visits ShanghaiTech</p>
   </div>
   
