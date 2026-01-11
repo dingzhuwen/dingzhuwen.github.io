@@ -12,6 +12,10 @@ __Latest News__
 
 
 __Expired News__
+* __Call for Submissions__: IEEE ICC 2026 Workshop on Task-Oriented and Generative Communications for 6G
+    - Workshop Website: <https://icc2026.ieee-icc.org/workshop/ws15-task-oriented-and-generative-communications-6g>.
+    - Submission Link: <https://edas.info/newPaper.php?c=34792>.
+    - Submission Deadline: 18 January 2026.
 * __Call for Submissions__: IEEE GlobeCom 2025 Workshop on Task-Oriented and Generative Communications for 6G
     - Workshop Website: <https://globecom2025.ieee-globecom.org/workshop/ws-15-task-oriented-and-generative-communications-6g>.
     - Submission Link: <https://gcwkshps2025-togc6g.edas.info/>.
