@@ -46,8 +46,8 @@ __Topic 2: Semantic and Task-Oriented Communications__
 
 
 __Topic 3: Edge Machine Learning__
-1. S. Xie, __D. Wen__, C. You, Q. Chen, M. Bennis, and K. Huang, “FedLoDrop: Federated LoRA with Dropout for Generalized LLM Fine-tuning,”  to appear in __IEEE J. Sel. Commun.__, 2026, doi: 10.1109/JSAC.2026.3660935. (Corresponding Author) ([Related Code][5])
-2. Y. Ai, Q. Chen, __D. Wen__, and M. Bennis, "Cross-Modal Collaborative Diffusion Models for Distributed AI-Generated Content," in __IEEE Trans. Cogn. Commun. Netw.__, vol. 12, pp. 5552-5565, 2026, doi: 10.1109/TCCN.2026.3656389. 
+1. S. Xie, __D. Wen__, C. You, Q. Chen, M. Bennis, and K. Huang, “FedLoDrop: Federated LoRA with Dropout for Generalized LLM Fine-tuning,”   __IEEE J. Sel. Commun.__, vol. 44, pp. 3541-3556, 2026, doi: 10.1109/JSAC.2026.3660935. (Corresponding Author) ([Related Code][5])
+2. Y. Ai, Q. Chen, __D. Wen__, and M. Bennis, "Cross-Modal Collaborative Diffusion Models for Distributed AI-Generated Content," __IEEE Trans. Cogn. Commun. Netw.__, vol. 12, pp. 5552-5565, 2026, doi: 10.1109/TCCN.2026.3656389. 
 3. Z. Jiang, __D. Wen__, S. Liu, G. Zhu, and G. Yu, “Partitioned Edge Learning Over Fast Fading Channels,” __IEEE Trans. Veh. Technol.__, vol. 74, no. 6, pp. 8561-8576, Jun. 2025, doi: 10.1109/TVT.2025.3540281. (Corresponding Author) 
 4. M. Guo, D. Liu, O. Simeone, and __D. Wen__, “Efficient Wireless Federated Learning Via Low-Rank Gradient Factorization,” __IEEE Trans. Veh. Technol.__, vol. 74, no. 4, pp. 6811-6816, Apr. 2025, doi: 10.1109/TVT.2024.3506950. 
 5. S. Liu, C. Liu, __D. Wen__, and G. Yu,  “Efficient Collaborative Learning Over Unreliable D2D Network: Adaptive Cluster Head Selection and Resource Allocation,” __IEEE Trans. Commun.__, vol. 73, no. 1, pp. 425-438, Jan. 2025, doi: 10.1109/TCOMM.2024.3435072. (Corresponding Author)
