@@ -16,6 +16,11 @@ author_profile: true
   <div class="cat">Group Photos</div>
 
   <div class="photo-photo">
+    <img src="/images/OHC_VP.JPG">
+    <p>[2026-03]Mr. Takayuki Endo, vice president of Omron Healthcare (China) Co., visits ShanghaiTech</p>
+  </div>
+  
+  <div class="photo-photo">
     <img src="/images/xiaoyang_visiting_202511.JPG">
     <p>[2025-11]Dr. Xiaoyang Li visits ShanghaiTech</p>
   </div>
