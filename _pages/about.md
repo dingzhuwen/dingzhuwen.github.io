@@ -27,7 +27,9 @@ __Research Topics__
 * Task-Oriented Communications
 
 __Activities__
-* The paper “A Survey on Integrated Sensing, Communication, and Computation” was rated as an __ESI Hot Paper__ (top 0.1% of papers in the field) by Clarivate. ([Paper Link][13])
+* Our paper "Integrated Sensing, Communication, and Computation for Over-the-Air Federated Edge Learning" was selected an __ESI Highly Cited Paper__ (top 1% of papers in the field) by Clarivate. ([Paper Link][15])
+* Our paper "Task-Oriented Communications for 6G: Vision, Principles, and Technologies" was selected an __ESI Highly Cited Paper__ (top 1% of papers in the field) by Clarivate. ([Paper Link][14])
+* The paper “A Survey on Integrated Sensing, Communication, and Computation” was selected as an __ESI Hot Paper__ (top 0.1% of papers in the field) by Clarivate. ([Paper Link][13])
 * Dr. Wen was awarded 2025 __Excellent Mentor of ShanghaiTech University__ on 2025/12/29.
 * Dr. Wen will co-organize __IEEE ICC 2025 Workshop on Task-Oriented and Generative Communications for 6G__. ([Workshop Homepage][12])
 * Dr. Wen was ranked __World's Top 2% Scientists__ by Stanford in Sep. 2025.
@@ -73,3 +75,5 @@ __Education Experience__
 [11]: https://ieeexplore.ieee.org/document/10186369
 [12]: https://icc2026.ieee-icc.org/workshop/ws15-task-oriented-and-generative-communications-6g
 [13]: https://ieeexplore.ieee.org/abstract/document/10812728/
+[14]: https://ieeexplore.ieee.org/document/10183789
+[15]: https://ieeexplore.ieee.org/document/11143883
